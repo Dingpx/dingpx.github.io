@@ -64,7 +64,7 @@ I am always looking for related collaborations, and some of them have produced t
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB in Westlake University**. More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab[AT]westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
 {: .notice--info}
 
 <h2 id='publications'>Publications</h2>
@@ -83,7 +83,15 @@ I am always looking for related collaborations, and some of them have produced t
 
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
-<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.11972)]
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[paper](https://arxiv.org/abs/2312.11972)]
+
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)]
+
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> JunyingWang, XiaoliLiu, JianqinYin, <u>PengxiangDing</u> &quot;**DC-net: Dual-Consistency semi-supervised learning for 3D left atrium segmentation from MRI**&quot;. In *Biomedical Signal Processing and Control*. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809422003858)]
+
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)]
+
+<img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)]
 
 <!-- <a href="https://ieeexplore.ieee.org/document/10203679" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[open access](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.4.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social"></a> <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a> -->
 
@@ -105,7 +113,15 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Preprints & Under Submission
 
+<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=flat-square"></a> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2107.03575*. [[pdf](https://arxiv.org/abs/2403.13358)]
+
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[pdf](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
+
+<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=flat-square"></a> P Ding, J Yin, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2107.03575*. [[pdf](https://arxiv.org/abs/2312.14457)]
+
+
+
+<a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> P Ding, J Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[pdf](https://arxiv.org/abs/2107.03575)]
 
 <!-- ## Professional Experience -->
 
