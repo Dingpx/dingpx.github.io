@@ -119,7 +119,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Han Zhao, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2312.14457)]
 
-<a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> P Ding, J Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
+<a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
 
 <!-- ## Professional Experience -->
 
