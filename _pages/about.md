@@ -87,7 +87,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202023%20-%20red"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)]
 
-<img src="https://img.shields.io/badge/Biomed%20Signal%20Process%20Control%20-%202023%20-%20red"> JunyingWang, XiaoliLiu, JianqinYin, <u>PengxiangDing</u> &quot;**DC-net: Dual-Consistency semi-supervised learning for 3D left atrium segmentation from MRI**&quot;. In *Biomedical Signal Processing and Control*. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809422003858)]
+<!-- <img src="https://img.shields.io/badge/Biomed%20Signal%20Process%20Control%20-%202023%20-%20red"> JunyingWang, XiaoliLiu, JianqinYin, <u>PengxiangDing</u> &quot;**DC-net: Dual-Consistency semi-supervised learning for 3D left atrium segmentation from MRI**&quot;. In *Biomedical Signal Processing and Control*. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809422003858)] -->
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)]
 
