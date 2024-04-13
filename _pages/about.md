@@ -113,7 +113,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=flat-square"></a> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2403.13358)]
+<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=flat-square"></a> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2403.13358*. [[paper](https://arxiv.org/abs/2403.13358)]
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
