@@ -168,6 +168,7 @@ I am always looking for related collaborations, and some of them have produced t
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
 <!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
 <!-- * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/) -->
+* International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/)
 * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
 <!-- * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/) -->
 <!-- * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv) -->
