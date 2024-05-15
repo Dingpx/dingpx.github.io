@@ -41,6 +41,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+
+* **[May 4, 2024]** One paper “RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion” got accepted for RSS 2024.
+
 * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.11972) about whole-body human motion prediction got accepted for AAAI 2024.
 
