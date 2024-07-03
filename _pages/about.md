@@ -42,6 +42,10 @@ I am always looking for related collaborations, and some of them have produced t
 <h2 id='news'>News</h2>
 
 
+* **[July 2, 2024]** Two papers “QUAR-VLA: Vision-Language-Action Model for Quadruped Robots”, "PiTe: Pixel-Temporal Alignment for Large Video-Language Model" got accepted for ECCV 2024.
+
+* **[June 30, 2024]** One paper “GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot” got accepted for IROS 2024.
+
 * **[May 4, 2024]** One paper “RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion” got accepted for RSS 2024.
 
 * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
@@ -86,6 +90,15 @@ I am always looking for related collaborations, and some of them have produced t
 
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
+<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
+
+
+<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=flat-square"></a> Yang Liu*, <u>Pengxiang Ding*</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
+
+
+<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=flat-square"></a> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
+
+
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[paper](https://arxiv.org/abs/2312.11972)]
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202023%20-%20red"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)]
@@ -116,11 +129,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Preprints & Under Submission
 
-<a href="https://arxiv.org/abs/2403.13358" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.13358-B31B1B?style=flat-square"></a> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *arXiv preprint arXiv:2403.13358*. [[paper](https://arxiv.org/abs/2403.13358)]
 
 <a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
-<a href="https://arxiv.org/abs/2312.14457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.14457-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Han Zhao, Zhitao Wang, Zhenyu Wei, Shangke Lyu, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *arXiv preprint arXiv:2312.14457*. [[paper](https://arxiv.org/abs/2312.14457)]
 
 <a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
 
