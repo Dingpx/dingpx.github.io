@@ -172,6 +172,7 @@ I am always looking for related collaborations, and some of them have produced t
 ### Journal Reviewer
 
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
+* IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
 <!-- * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist) -->
 <!-- * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634) -->
 
@@ -182,6 +183,7 @@ I am always looking for related collaborations, and some of them have produced t
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
 <!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
 <!-- * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/) -->
+* Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
 * International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/)
 * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
 <!-- * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/) -->
