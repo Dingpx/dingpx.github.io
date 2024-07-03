@@ -93,7 +93,7 @@ I am always looking for related collaborations, and some of them have produced t
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
 
 
-<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*.
 
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
