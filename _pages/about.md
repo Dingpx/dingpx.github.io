@@ -101,7 +101,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
 
-<img src="https://img.shields.io/badge/RSS-2024-blue?style=flat-square"> <u>Shangke Lyu</u>, Xin Lang, Han Zhao, Hongyin Zhang, <u>Pengxiang Ding</u>, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *Robotics: Science and Systems 2024 (RSS24)*. 
+<img src="https://img.shields.io/badge/RSS-2024-blue?style=flat-square"> Shangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, <u>Pengxiang Ding</u>, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *Robotics: Science and Systems 2024 (RSS24)*. 
 
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[paper](https://arxiv.org/abs/2312.11972)]
 
