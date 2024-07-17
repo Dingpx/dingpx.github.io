@@ -41,6 +41,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[July 16, 2024]** One papers “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
 
 * **[July 2, 2024]** Two papers “QUAR-VLA: Vision-Language-Action Model for Quadruped Robots”, "PiTe: Pixel-Temporal Alignment for Large Video-Language Model" got accepted for ECCV 2024.
 
@@ -90,14 +91,17 @@ I am always looking for related collaborations, and some of them have produced t
 
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
-<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
 
+<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. 
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
 
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*.
 
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
 
+<img src="https://img.shields.io/badge/RSS-2024-blue?style=flat-square"> <u>Shangke Lyu</u>, Xin Lang, Han Zhao, Hongyin Zhang, <u>Pengxiang Ding</u>, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *Robotics: Science and Systems 2024 (RSS24)*. 
 
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[paper](https://arxiv.org/abs/2312.11972)]
 
@@ -171,8 +175,8 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Journal Reviewer
 
-* IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
 * IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+* IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
 <!-- * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist) -->
 <!-- * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634) -->
 
