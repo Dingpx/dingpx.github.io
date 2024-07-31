@@ -94,7 +94,7 @@ I am always looking for related collaborations, and some of them have produced t
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
 
-<img src="https://img.shields.io/badge/KBS2024-blue?style=flat-square"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems 2024 (KBS2024)*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)]
+<img src="https://img.shields.io/badge/KBS2024-red?style=flat-square"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems 2024 (KBS2024)*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)]
 
 
 <img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)]
