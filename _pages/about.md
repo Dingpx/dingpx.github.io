@@ -41,6 +41,8 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[July 31, 2024]** One papers “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
+
 * **[July 16, 2024]** One papers “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
 
 * **[July 2, 2024]** Two papers “QUAR-VLA: Vision-Language-Action Model for Quadruped Robots”, "PiTe: Pixel-Temporal Alignment for Large Video-Language Model" got accepted for ECCV 2024.
@@ -92,24 +94,33 @@ I am always looking for related collaborations, and some of them have produced t
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
 
-<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. 
+<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)]
 
-<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)]
+
+<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)]
+
+
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)] [[Project](https://sites.google.com/view/quar-vla/quar-vla-eccv24)]
+
+
 
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*.
 
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
 
-<img src="https://img.shields.io/badge/RSS-2024-blue?style=flat-square"> Shangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, <u>Pengxiang Ding</u>, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *Robotics: Science and Systems 2024 (RSS24)*. 
+<img src="https://img.shields.io/badge/RSS-2024-blue?style=flat-square"> Shangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, <u>Pengxiang Ding</u>, Donglin Wang, &quot;**RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion**&quot;. *Robotics: Science and Systems 2024 (RSS24)*. 
 
 <img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang, &quot;**Expressive Forecasting of 3D Whole-body Human Motions**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[paper](https://arxiv.org/abs/2312.11972)]
+[[code](https://github.com/Dingpx/EAI)] 
+
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202023%20-%20red"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)]
 
 <!-- <img src="https://img.shields.io/badge/Biomed%20Signal%20Process%20Control%20-%202023%20-%20red"> JunyingWang, XiaoliLiu, JianqinYin, <u>PengxiangDing</u> &quot;**DC-net: Dual-Consistency semi-supervised learning for 3D left atrium segmentation from MRI**&quot;. In *Biomedical Signal Processing and Control*. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809422003858)] -->
 
-<img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)]
+<img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)][[code](https://github.com/Dingpx/Motion-Coordination)] 
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202020%20-%20red"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)]
 
