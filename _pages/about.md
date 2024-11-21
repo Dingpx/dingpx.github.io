@@ -94,10 +94,10 @@ I am always looking for related collaborations, and some of them have produced t
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
 
-<img src="https://img.shields.io/badge/KBS%20-%202024%20-%20red"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems 2024 (KBS2024)*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)]
+<img src="https://img.shields.io/badge/KBS%20-%202024%20-%20red"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems 2024 (KBS2024)*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)][[code](https://github.com/YHDang/dhrnet-multi-pose-estimation)]
 
 
-<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)]
+<img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)][[code](https://github.com/Cuixxx/ProFD)]
 
 
 
@@ -105,7 +105,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 
 
-<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*.
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*.[[paper](https://arxiv.org/abs/2409.07239)][[code](https://github.com/yliu-cs/pite)]
 
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, <u>Pengxiang Ding</u>, Can Cui, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024)*. [[paper](https://arxiv.org/abs/2403.13358)]
@@ -116,13 +116,13 @@ I am always looking for related collaborations, and some of them have produced t
 [[code](https://github.com/Dingpx/EAI)] 
 
 
-<img src="https://img.shields.io/badge/TCSVT%20-%202023%20-%20red"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)]
+<img src="https://img.shields.io/badge/TCSVT%20-%202023%20-%20red"> Chao Qi, Jianqin Yin, Jinghang Xu, <u>Pengxiang Ding</u>, &quot;**Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2302.10425)][[code](https://github.com/chaoqi7/GPL3D)] 
 
 <!-- <img src="https://img.shields.io/badge/Biomed%20Signal%20Process%20Control%20-%202023%20-%20red"> JunyingWang, XiaoliLiu, JianqinYin, <u>PengxiangDing</u> &quot;**DC-net: Dual-Consistency semi-supervised learning for 3D left atrium segmentation from MRI**&quot;. In *Biomedical Signal Processing and Control*. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809422003858)] -->
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)][[code](https://github.com/Dingpx/Motion-Coordination)] 
 
-<img src="https://img.shields.io/badge/TCSVT%20-%202020%20-%20red"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)]
+<img src="https://img.shields.io/badge/TCSVT%20-%202020%20-%20red"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)][[code](https://github.com/lily2lab/TrajectoryCNN)]  
 
 <!-- <a href="https://ieeexplore.ieee.org/document/10203679" target="_blank"><img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"></a> <u>Siteng Huang</u>, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang, &quot;**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [[project page](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)] [[arXiv](https://arxiv.org/abs/2211.12764)] [[open access](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.html)] [[video (Youtube)](https://www.youtube.com/watch?v=ymdkiSSuOmI)] [[github](https://github.com/bighuang624/VoP)] [[ModelScope](https://modelscope.cn/models/damo/cv_vit-b32_retrieval_vop/summary)] [[poster](https://kyonhuang.top/files/VoP/CVPR23-VoP-poster.pdf)] [[slide](https://kyonhuang.top/files/VoP/CVPR23-VoP-presentation.pdf)] <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=mhpkWSYAAAAJ:W7OEmFMy1HYC" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=citations&query=publications.4.citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DmhpkWSYAAAAJ&logo=googlescholar&style=social"></a> <a href="https://github.com/bighuang624/VoP" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/VoP?style=social"></a> -->
 
@@ -193,7 +193,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 ### Conference Reviewer
 
-<!-- * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings) -->
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
+* International Conference on Learning Representations [(ICLR)](https://iclr.cc/)
+* International Conference on Robotics and Automation [(ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
 <!-- * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings) -->
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
 <!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
