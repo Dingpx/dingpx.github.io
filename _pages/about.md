@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a first-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Prior to my Ph.D. career, I received my Msc. Degree from School of Artificial Intelligence, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2022.
+Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a second-year Ph.D. student at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). Additionally, I am involved in a joint program with [Westlake University](https://www.westlake.edu.cn/) as a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/). Prior to my Ph.D. career, I received my Msc. Degree from School of Artificial Intelligence, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2022.
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
@@ -41,9 +41,11 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[July 31, 2024]** One papers “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
+* **[July 31, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
 
-* **[July 16, 2024]** One papers “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
+* **[July 31, 2024]** One paper “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
+
+* **[July 16, 2024]** One paper “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
 
 * **[July 2, 2024]** Two papers “QUAR-VLA: Vision-Language-Action Model for Quadruped Robots”, "PiTe: Pixel-Temporal Alignment for Large Video-Language Model" got accepted for ECCV 2024.
 
@@ -92,6 +94,9 @@ I am always looking for related collaborations, and some of them have produced t
 <img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> <u>Siteng Huang</u>, Biao Gong, Yutong Feng, Min Zhang, Yiliang Lv, Donglin Wang, &quot;**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [[arXiv](https://arxiv.org/abs/2303.15230)] [[project page](https://kyonhuang.top/publication/Troika)] [[github](https://github.com/bighuang624/Troika)]
 
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
+
+
+<img src="https://img.shields.io/badge/AAAI-2025-blue?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *AAAI2025*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
 
 <img src="https://img.shields.io/badge/KBS%20-%202024%20-%20red"> Yonghao Dang, Jianqin Yin, Liyuan Liu, <u>Pengxiang Ding</u>, Yuan Sun, Yanzhu Hu, &quot;**DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation**&quot;. *Knowledge-Based Systems 2024 (KBS2024)*. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)][[code](https://github.com/YHDang/dhrnet-multi-pose-estimation)]
@@ -145,7 +150,6 @@ I am always looking for related collaborations, and some of them have produced t
 ### Preprints & Under Submission
 
 
-<a href="https://arxiv.org/abs/2403.14520" target="_blank"><img src="https://img.shields.io/badge/arXiv-2403.14520-B31B1B?style=flat-square"></a> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *arXiv preprint arXiv:2403.14520*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
 
 <a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
