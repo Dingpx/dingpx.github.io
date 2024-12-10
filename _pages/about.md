@@ -41,7 +41,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[July 31, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
+* **[Dec 10, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
 
 * **[July 31, 2024]** One paper “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
 
