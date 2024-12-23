@@ -41,6 +41,10 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+**[Dec 25, 2024]** [Preprint] We released Quart-online, a novel latency-free quadruped multimodal large language model, designed to enhance inference efficiency without degrading the performance of the multimodal large language model. 
+**[Dec 13, 2024]** [Preprint] We released Score and Distribution Matching Policy, which transforms diffusion-based policies into single-step generators through a two-stage optimization process: score matching ensures alignment with true action distributions, and distribution matching minimizes KL divergence for consistency. Project page has been available.
+**[Dec 10, 2024]** [Preprint] We released CARP, Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning. The approach produces highly accurate and smooth robot actions, achieving up to a 10% improvement of success rates, and delivers 10x faster inference compared to state-of-the-art policies. Project page with cool videos has been available. Code will be available soon!
+
 * **[Dec 10, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
 
 * **[July 31, 2024]** One paper “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
@@ -150,6 +154,7 @@ I am always looking for related collaborations, and some of them have produced t
 ### Preprints & Under Submission
 
 
+<a href="https://arxiv.org/abs/2412.15576" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.15576-B31B1B?style=flat-square"></a> Xinyang Tong, <u>Pengxiang Ding</u>, Donglin Wang, Wenjie Zhang, Can Cui, Mingyang Sun, Yiguo Fan, Han Zhao, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu &quot;**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**&quot;. *arXiv preprint arXiv:2412.15576*. [[paper](https://arxiv.org/abs/2412.15576)]
 
 
 <a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
