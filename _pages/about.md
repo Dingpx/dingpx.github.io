@@ -41,11 +41,11 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[Dec 25, 2024]** [Preprint] We released Quart-online, a novel latency-free quadruped multimodal large language model, designed to enhance inference efficiency without degrading the performance of the multimodal large language model. 
+* **[Dec 25, 2024]** [Preprint] I lead the team to launch Quart-online, a novel latency-free quadruped multimodal large language model, designed to enhance inference efficiency without degrading the performance of the multimodal large language model. 
 
-* **[Dec 13, 2024]** [Preprint] We released Score and Distribution Matching Policy, which transforms diffusion-based policies into single-step generators through a two-stage optimization process: score matching ensures alignment with true action distributions, and distribution matching minimizes KL divergence for consistency. Project page has been available.
+* **[Dec 13, 2024]** [Preprint] I lead the team to launch Score and Distribution Matching Policy, which transforms diffusion-based policies into single-step generators through a two-stage optimization process: score matching ensures alignment with true action distributions, and distribution matching minimizes KL divergence for consistency. Project page has been available.
 
-* **[Dec 10, 2024]** [Preprint] We released CARP, Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning. The approach produces highly accurate and smooth robot actions, achieving up to a 10% improvement of success rates, and delivers 10x faster inference compared to state-of-the-art policies. Project page with cool videos has been available. Code will be available soon!
+* **[Dec 10, 2024]** [Preprint] I lead the team to launch CARP, Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning. The approach produces highly accurate and smooth robot actions, achieving up to a 10% improvement of success rates, and delivers 10x faster inference compared to state-of-the-art policies. Project page with cool videos has been available. Code will be available soon!
 
 * **[Dec 10, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
 
