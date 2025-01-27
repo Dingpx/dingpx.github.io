@@ -41,6 +41,8 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[July 2, 2024]** Two papers “VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation”, "GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation" got accepted for ICLR 2025.
+
 * **[Dec 25, 2024]** I lead the team to launch Quart-online, a novel latency-free quadruped multimodal large language model, designed to enhance inference efficiency without degrading the performance of the multimodal large language model. With the implementation of action chunk discretization, QUART-Online enhances the existing MLLM system, which was previously operating at a low frequency, enabling more precise actions to be executed in real-time at a frequency of 50Hz.
 
 * **[Dec 13, 2024]** I lead the team to launch Score and Distribution Matching Policy, which transforms diffusion-based policies into single-step generators through a two-stage optimization process: score matching ensures alignment with true action distributions, and distribution matching minimizes KL divergence for consistency. Project page has been available.
@@ -102,6 +104,11 @@ I am always looking for related collaborations, and some of them have produced t
 <a href="https://ieeexplore.ieee.org/document/10445945" target="_blank"><img src="https://img.shields.io/badge/ICASSP-2024-blue?style=flat-square"></a> Xuyang Liu†, <u>Siteng Huang</u>†, Yachen Kang, Honggang Chen, Donglin Wang, &quot;**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**&quot;. In *Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*. [[arXiv](https://arxiv.org/abs/2309.01141)] [[code](https://github.com/xuyang-liu16/VGDiffZero)] -->
 
 
+<img src="https://img.shields.io/badge/ICLR-2025-blue?style=flat-square"> Hongyin Zhang, <u>Pengxiang Ding</u>, Shangke Lyu, Ying Peng, Donglin Wang, &quot;**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**&quot;. *The Thirteenth International Conference on Learning Representations (ICLR2025)*. [[paper](https://openreview.net/pdf?id=hPWWXpCaJ7)] 
+
+<img src="https://img.shields.io/badge/ICLR-2025-blue?style=flat-square"> Wei Zhao, <u>Pengxiang Ding</u>, Zhang Min, Zhefei Gong, Shuanghao Bai, Han Zhao, Donglin Wang, &quot;**VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation**&quot;. *The Thirteenth International Conference on Learning Representations (ICLR2025)*. [[paper](https://openreview.net/pdf?id=K4FAFNRpko)] 
+
+
 <img src="https://img.shields.io/badge/AAAI-2025-blue?style=flat-square"> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *AAAI2025*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
 
 
@@ -109,9 +116,6 @@ I am always looking for related collaborations, and some of them have produced t
 
 
 <img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)][[code](https://github.com/Cuixxx/ProFD)]
-
-
-
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)] [[Project](https://sites.google.com/view/quar-vla/quar-vla-eccv24)]
 
 
@@ -201,6 +205,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 * IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
+* IEEE Transactions on Automation Science and Engineering [(TASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
 <!-- * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist) -->
 <!-- * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634) -->
 
