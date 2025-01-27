@@ -116,6 +116,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 
 <img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"> Can Cui, Siteng Huang, Wenxuan Song, <u>Pengxiang Ding</u>, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. *ACM Multimedia 2024 (ACMMM24)*. [[paper](https://openreview.net/forum?id=o2axlPlXYY)][[code](https://github.com/Cuixxx/ProFD)]
+
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. *The 18th European Conference on Computer Vision (ECCV2024)*. [[paper](https://arxiv.org/abs/2312.14457)] [[Project](https://sites.google.com/view/quar-vla/quar-vla-eccv24)]
 
 
