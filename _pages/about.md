@@ -217,14 +217,15 @@ I am always looking for related collaborations, and some of them have produced t
 * International Conference on Machine Learning [(ICML)](https://icml.cc/)
 * International Conference on Learning Representations [(ICLR)](https://iclr.cc/)
 * Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
+* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
+* ACM Multimedia[(ACMMM)](https://acmmm2025.org/)
 * International Conference on Robotics and Automation [(ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
 * International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/)
-<!-- * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings) -->
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
 <!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
 <!-- * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/) -->
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
-* IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
+<!-- * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings) -->
 <!-- * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/) -->
 <!-- * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv) -->
 <!-- * Chinese Conference on Pattern Recognition and Computer Vision [(PRCV)](https://link.springer.com/conference/ccprcv) -->
