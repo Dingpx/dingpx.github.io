@@ -16,11 +16,11 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a second-year Ph.D. student
 
 <!-- I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning. -->
 
-Currently, My research has centered on **multi-modal large models** (mainly on **vision-language models**), including 
+Currently, My research has centered on **embodied ai**, including 
 
-* **Multi-modal large models**: multimodal large language models (MLLM), vision-language pre-trained models (VLM)
-* **Embodied AI**: foundation models for robotics
-* **AIGC**: human motion analysis
+* **Vision-Language-Action models**: foundation models for robotical arm, legged robot and humanoid robot.
+* **Efficient Learning**: pratical acceleration paradigm for foundation models
+* **Data Centric Optimization**: enhance the data utilization of limited robot data
 
 
 I am always looking for related collaborations, and some of them have produced top-level publications. If you are interested in communication, feel free to drop me an <a href="mailto:dingpx2015@gmail.com" target="_blank">email</a>.
@@ -41,15 +41,21 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[March 3, 2025]** New arxiv: Score-Based Diffusion Policy Compatible with Reinforcement Learning via Optimal Transport 
+
+* **[March 3, 2025]** New arxiv: Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation
+
+* **[March 3, 2025]** Humanoid-VLA is available in arxiv. 
+
 * **[Jan 28, 2025]** Two papers “MoRE : Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models”, "QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning" got accepted for ICRA 2025.
 
 * **[Jan 23, 2025]** Two papers “VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation”, "GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation" got accepted for ICLR 2025.
 
-* **[Dec 25, 2024]** I lead the team to launch Quart-online, a novel latency-free quadruped multimodal large language model, designed to enhance inference efficiency without degrading the performance of the multimodal large language model. With the implementation of action chunk discretization, QUART-Online enhances the existing MLLM system, which was previously operating at a low frequency, enabling more precise actions to be executed in real-time at a frequency of 50Hz.
+* **[Dec 25, 2024]** Quart-online is available in arxiv. 
 
-* **[Dec 13, 2024]** I lead the team to launch Score and Distribution Matching Policy, which transforms diffusion-based policies into single-step generators through a two-stage optimization process: score matching ensures alignment with true action distributions, and distribution matching minimizes KL divergence for consistency. Project page has been available.
+* **[Dec 13, 2024]** SDP (Score and Distribution Matching Policy) is available in arxiv.
 
-* **[Dec 10, 2024]** I lead the team to launch CARP, Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning. The approach produces highly accurate and smooth robot actions, achieving up to a 10% improvement of success rates, and delivers 10x faster inference compared to state-of-the-art policies. Project page with cool videos has been available. Code will be available soon!
+* **[Dec 10, 2024]** CARP (Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning) is available in arxiv.
 
 * **[Dec 10, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
 
@@ -219,7 +225,7 @@ I am always looking for related collaborations, and some of them have produced t
 * Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
-* ACM Multimedia[(ACMMM)](https://acmmm2025.org/)
+* ACM Multimedia [(ACMMM)](https://acmmm2025.org/)
 * International Conference on Robotics and Automation [(ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
 * International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/)
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
