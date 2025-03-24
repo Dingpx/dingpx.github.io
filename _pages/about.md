@@ -41,7 +41,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
-* **[Mar 4, 2025]** [PD-VLA](https://arxiv.org/abs/2503.02310) is available in arxiv.
+* **[Mar 04, 2025]** [PD-VLA](https://arxiv.org/abs/2503.02310) is available in arxiv.
 * **[Feb 27, 2025]** [BC-IB](https://arxiv.org/pdf/2502.02853) is available in arxiv.
 * **[Feb 21, 2025]** [OTPR](https://www.arxiv.org/pdf/2502.12631) is available in arxiv.
 * **[Feb 21, 2025]** [Humanoid-VLA](https://arxiv.org/pdf/2502.14795) is available in arxiv.
@@ -53,9 +53,9 @@ I am always looking for related collaborations, and some of them have produced t
 * **[Dec 10, 2024]** One paper [Cobra](https://arxiv.org/abs/2403.14520) got accepted for AAAI 2025.
 * **[Jul 31, 2024]** One paper DHRNet got accepted for KBS 2024.
 * **[Jul 16, 2024]** One paper ProFD got accepted for ACMMM 2024.
-* **[Jul 2, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
+* **[Jul 02, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
 * **[Jun 30, 2024]** One paper GeRM got accepted for IROS 2024.
-* **[May 4, 2024]** One paper RL2AC got accepted for RSS 2024.
+* **[May 04, 2024]** One paper RL2AC got accepted for RSS 2024.
 <!-- * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available! -->
 * **[Dec 9, 2023]** [EAI](https://arxiv.org/abs/2312.11972) got accepted for AAAI 2024.
 
