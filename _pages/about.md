@@ -206,7 +206,77 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 <h2 id='misc'>Misc</h2>
 Welcome to follow my [Redbook](https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687).
 
-<!-- <div align="middle">
-  <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
-  <a href="http://www.zju.edu.cn/" target="_blank"><img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" /></a>
-</div> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>访问者地图</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+    .info-box {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="info-box">
+    <p><strong>访问者信息：</strong></p>
+    <p id="visitor-info">加载中...</p>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    // 地图初始化
+    const map = L.map('map').setView([0, 0], 2); // 世界地图视图
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+    }).addTo(map);
+
+    // 模拟获取访问者的地理位置信息
+    async function fetchVisitorLocation() {
+      try {
+        // 示例：使用免费的 IP Geolocation API（如 ipinfo.io 或 ip-api.com）
+        const response = await fetch('https://ipapi.co/json/'); // 替换为实际的 API
+        const data = await response.json();
+
+        // 获取访问者的经纬度和其他信息
+        const { latitude, longitude, city, region, country_name } = data;
+
+        // 更新地图上的标记
+        const marker = L.marker([latitude, longitude]).addTo(map);
+        marker.bindPopup(
+          `<b>访问者位置</b><br>${city}, ${region}, ${country_name}`
+        ).openPopup();
+
+        // 更新信息框
+        document.getElementById('visitor-info').innerText = `您来自 ${city}, ${region}, ${country_name}。`;
+        
+        // 将地图视图移动到访问者位置
+        map.setView([latitude, longitude], 10);
+      } catch (error) {
+        console.error('无法获取访问者位置:', error);
+        document.getElementById('visitor-info').innerText = '无法获取您的位置信息。';
+      }
+    }
+
+    // 调用函数以获取访问者位置
+    fetchVisitorLocation();
+  </script>
+</body>
+</html>
+
+
