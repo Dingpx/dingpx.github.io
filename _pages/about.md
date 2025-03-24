@@ -47,27 +47,27 @@ I am always looking for related collaborations, and some of them have produced t
 
 * **[March 3, 2025]** Humanoid-VLA is available in arxiv. 
 
-* **[Jan 28, 2025]** Two papers “MoRE : Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models”, "QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning" got accepted for ICRA 2025.
+* **[Jan 28, 2025]** Two papers MoRE, QUART-Online got accepted for ICRA 2025.
 
-* **[Jan 23, 2025]** Two papers “VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation”, "GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation" got accepted for ICLR 2025.
+* **[Jan 23, 2025]** Two papers VLAS, GEVRM got accepted for ICLR 2025.
 
 * **[Dec 25, 2024]** Quart-online is available in arxiv. 
 
-* **[Dec 13, 2024]** SDP (Score and Distribution Matching Policy) is available in arxiv.
+* **[Dec 13, 2024]** SDP is available in arxiv.
 
-* **[Dec 10, 2024]** CARP (Coarse-to-fine AutoRegressive Prediction for visuomotor policy learning) is available in arxiv.
+* **[Dec 10, 2024]** CARP is available in arxiv.
 
-* **[Dec 10, 2024]** One paper “Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference” got accepted for AAAI 2025.
+* **[Dec 10, 2024]** One paper Cobra got accepted for AAAI 2025.
 
-* **[July 31, 2024]** One paper “DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation” got accepted for KBS 2024.
+* **[July 31, 2024]** One paper DHRNet got accepted for KBS 2024.
 
 * **[July 16, 2024]** One paper “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
 
-* **[July 2, 2024]** Two papers “QUAR-VLA: Vision-Language-Action Model for Quadruped Robots”, "PiTe: Pixel-Temporal Alignment for Large Video-Language Model" got accepted for ECCV 2024.
+* **[July 2, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
 
-* **[June 30, 2024]** One paper “GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot” got accepted for IROS 2024.
+* **[June 30, 2024]** One paper GeRM got accepted for IROS 2024.
 
-* **[May 4, 2024]** One paper “RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion” got accepted for RSS 2024.
+* **[May 4, 2024]** One paper RL2AC got accepted for RSS 2024.
 
 * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 
