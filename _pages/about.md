@@ -199,24 +199,26 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Journal Reviewer
+### Journal/Conference Reviewer
+* ICML, ICLR, NeurIPS, CVPR, ICCV, ACMMM, ICRA, IROS, ICME, TNNLS, TASE, TSCVT
 
-* IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+<!-- * IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
-* IEEE Transactions on Automation Science and Engineering [(TASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
+* IEEE Transactions on Automation Science and Engineering [(TASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) -->
 <!-- * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist) -->
 <!-- * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634) -->
 
-### Conference Reviewer
+<!-- ### Conference Reviewer -->
 
-* International Conference on Machine Learning [(ICML)](https://icml.cc/)
+
+<!-- * International Conference on Machine Learning [(ICML)](https://icml.cc/)
 * International Conference on Learning Representations [(ICLR)](https://iclr.cc/)
 * Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 * ACM Multimedia [(ACMMM)](https://acmmm2025.org/)
 * International Conference on Robotics and Automation [(ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-* International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/)
+* International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/) -->
 <!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
 <!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
 <!-- * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/) -->
@@ -229,7 +231,7 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 <h2 id='misc'>Misc</h2>
 
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/ding-peng-xiang-92).
+Welcome to follow my [Redbook](https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687).
 
 <!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
