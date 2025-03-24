@@ -42,35 +42,20 @@ I am always looking for related collaborations, and some of them have produced t
 <h2 id='news'>News</h2>
 
 * **[March 3, 2025]** New arxiv: Score-Based Diffusion Policy Compatible with Reinforcement Learning via Optimal Transport 
-
 * **[March 3, 2025]** New arxiv: Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation
-
 * **[March 3, 2025]** Humanoid-VLA is available in arxiv. 
-
 * **[Jan 28, 2025]** Two papers MoRE, QUART-Online got accepted for ICRA 2025.
-
 * **[Jan 23, 2025]** Two papers VLAS, GEVRM got accepted for ICLR 2025.
-
 * **[Dec 25, 2024]** Quart-online is available in arxiv. 
-
 * **[Dec 13, 2024]** SDP is available in arxiv.
-
 * **[Dec 10, 2024]** CARP is available in arxiv.
-
 * **[Dec 10, 2024]** One paper Cobra got accepted for AAAI 2025.
-
 * **[July 31, 2024]** One paper DHRNet got accepted for KBS 2024.
-
-* **[July 16, 2024]** One paper “ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification” got accepted for ACMMM 2024.
-
+* **[July 16, 2024]** One paper ProFD got accepted for ACMMM 2024.
 * **[July 2, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
-
 * **[June 30, 2024]** One paper GeRM got accepted for IROS 2024.
-
 * **[May 4, 2024]** One paper RL2AC got accepted for RSS 2024.
-
 * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
-
 * **[December 9, 2023]** One [paper](https://arxiv.org/abs/2312.11972) about whole-body human motion prediction got accepted for AAAI 2024.
 
 
