@@ -18,9 +18,9 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a second-year Ph.D. student
 
 Currently, My research has centered on **embodied ai**, including 
 
-* **Vision-Language-Action models**: foundation models for robotical arm, legged robot and humanoid robot.
-* **Efficient Learning**: pratical acceleration paradigm for foundation models
-* **Data Centric Optimization**: enhance the data utilization of limited robot data
+* **Vision-Language-Action models**: Foundation models for robots.
+* **Efficient Learning**: Pratical acceleration paradigm for foundation models
+* **Data Centric Optimization**: Enhance the data utilization of limited robot data
 
 
 I am always looking for related collaborations, and some of them have produced top-level publications. If you are interested in communication, feel free to drop me an <a href="mailto:dingpx2015@gmail.com" target="_blank">email</a>.
