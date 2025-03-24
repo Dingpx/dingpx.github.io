@@ -43,8 +43,8 @@ I am always looking for related collaborations, and some of them have produced t
 
 * **[Mar 4, 2025]** [PD-VLA](https://arxiv.org/abs/2503.02310) is available in arxiv.
 * **[Feb 27, 2025]** [BC-IB](https://arxiv.org/pdf/2502.02853) is available in arxiv.
-* **[Feb 21, 2025]** [OTPR] (https://www.arxiv.org/pdf/2502.12631) is available in arxiv.
-* **[Feb 21, 2025]** [Humanoid-VLA] (https://arxiv.org/pdf/2502.14795) is available in arxiv.
+* **[Feb 21, 2025]** [OTPR](https://www.arxiv.org/pdf/2502.12631) is available in arxiv.
+* **[Feb 21, 2025]** [Humanoid-VLA](https://arxiv.org/pdf/2502.14795) is available in arxiv.
 * **[Jan 28, 2025]** Two papers MoRE, QUART-Online got accepted for ICRA 2025.
 * **[Jan 23, 2025]** Two papers VLAS, GEVRM got accepted for ICLR 2025.
 * **[Dec 25, 2024]** Quart-online is available in arxiv. 
@@ -157,13 +157,13 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
-### Preprints & Under Submission
+<!-- ### Preprints & Under Submission -->
 
-<a href="https://arxiv.org/abs/2412.06782" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.06782-B31B1B?style=flat-square"></a> Zhefei Gong, <u>Pengxiang Ding</u>, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. *arXiv preprint arXiv:2412.06782*. [[paper](https://arxiv.org/abs/2412.06782)][[Project](https://carp-robot.github.io/)]
+<!-- <a href="https://arxiv.org/abs/2412.06782" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.06782-B31B1B?style=flat-square"></a> Zhefei Gong, <u>Pengxiang Ding</u>, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. *arXiv preprint arXiv:2412.06782*. [[paper](https://arxiv.org/abs/2412.06782)][[Project](https://carp-robot.github.io/)]
 
 <a href="https://arxiv.org/abs/2412.09265" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.09265-B31B1B?style=flat-square"></a> Bofang Jia†, <u>Pengxiang Ding†</u>, Can Cui, Mingyang Sun, Pengfang Qian, Siteng Huang, Zhaoxin Fan, Donglin Wang &quot;**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**&quot;. *arXiv preprint arXiv:2412.15576*. [[paper](https://arxiv.org/abs/2412.09265)][[Project](https://sdm-policy.github.io/)]
 
-<a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)]
+<a href="https://arxiv.org/abs/2107.03575" target="_blank"><img src="https://img.shields.io/badge/arXiv-2107.03575-B31B1B?style=flat-square"></a> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Uncertainty-aware Human Motion Prediction**&quot;. *arXiv preprint arXiv:2107.03575*. [[paper](https://arxiv.org/abs/2107.03575)] -->
 
 <!-- ## Professional Experience -->
 
