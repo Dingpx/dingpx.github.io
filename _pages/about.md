@@ -47,7 +47,7 @@ I am always looking for related collaborations, and some of them have produced t
 * **[Feb 21, 2025]** [Humanoid-VLA](https://arxiv.org/pdf/2502.14795) is available in arxiv.
 * **[Jan 28, 2025]** Two papers [MoRE](https://arxiv.org/abs/2503.08007), [QUART-Online](https://arxiv.org/abs/2412.15576) got accepted for ICRA 2025.
 * **[Jan 23, 2025]** Two papers [VLAS](https://openreview.net/pdf?id=K4FAFNRpko), [GEVRM](https://openreview.net/pdf?id=hPWWXpCaJ7) got accepted for ICLR 2025.
-* **[Dec 25, 2024]** [QUART-Online](https://arxiv.org/abs/2412.15576) is available in arxiv. 
+<!-- * **[Dec 25, 2024]** [QUART-Online](https://arxiv.org/abs/2412.15576) is available in arxiv.  -->
 * **[Dec 12, 2024]** [SDP](https://arxiv.org/pdf/2412.09265) is available in arxiv.
 * **[Dec 10, 2024]** [CARP](https://arxiv.org/abs/2412.06782) is available in arxiv.
 * **[Dec 10, 2024]** One paper [Cobra](https://arxiv.org/abs/2403.14520) got accepted for AAAI 2025.
@@ -56,7 +56,7 @@ I am always looking for related collaborations, and some of them have produced t
 * **[July 2, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
 * **[June 30, 2024]** One paper GeRM got accepted for IROS 2024.
 * **[May 4, 2024]** One paper RL2AC got accepted for RSS 2024.
-* **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
+<!-- * **[March 21, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available! -->
 * **[December 9, 2023]** [EAI](https://arxiv.org/abs/2312.11972) got accepted for AAAI 2024.
 
 
