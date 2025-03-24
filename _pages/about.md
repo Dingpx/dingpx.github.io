@@ -41,6 +41,7 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[March 24, 2025]** [PD-VLA](https://arxiv.org/abs/2503.02310) is available in arxiv.
 * **[March 3, 2025]** New arxiv: Score-Based Diffusion Policy Compatible with Reinforcement Learning via Optimal Transport 
 * **[March 3, 2025]** New arxiv: Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation
 * **[March 3, 2025]** Humanoid-VLA is available in arxiv. 
