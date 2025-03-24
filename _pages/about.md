@@ -198,7 +198,7 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 * ICML, ICLR, NeurIPS, CVPR, ICCV, ACMMM, ICRA, IROS, ICME, TNNLS, TASE, TSCVT
 
 ### Talk
-* 端到端四足机器人大模型[End-to-End Quadruped Robot Large Model](https://www.shenlanxueyuan.com/open/course/260)，深蓝学院
+* [End-to-End Quadruped Robot Large Model(端到端四足机器人大模型)](https://www.shenlanxueyuan.com/open/course/260)，深蓝学院
 
 
 <h2 id='misc'>Misc</h2>
