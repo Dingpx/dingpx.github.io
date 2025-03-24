@@ -169,6 +169,10 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 <h2 id='experience'>Experience</h2>
 
+* Research Intern - **DAMO Academy, Machine Intelligence Laboratory (达摩院/机器智能实验室)**
+  * Advisor: [Xin Li](https://scholar.google.com/citations?user=syD9lxQAAAAJ&hl=zh-CN)
+  * Time: Jan 2025 - March 2025.
+
 * Research Intern - **RedBook, Intelligent Creation Group (小红书/智能创作组)**
   * Advisor: [Haofan Wang](https://scholar.google.com/citations?user=EaMsuB0AAAAJ)
   * Time: Sep 2022 - March 2023.
@@ -190,15 +194,6 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 </div> -->
 
 <h2 id='services'>Services</h2>
-
-<!-- ### Journal Reviewer
-
-* [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-
-### Program Committee and/or Reviewer for Conferences and Workshops
-
-* [ICCV 2023](https://iccv2023.thecvf.com/) -->
-
 ### Journal/Conference Reviewer
 * ICML, ICLR, NeurIPS, CVPR, ICCV, ACMMM, ICRA, IROS, ICME, TNNLS, TASE, TSCVT
 
