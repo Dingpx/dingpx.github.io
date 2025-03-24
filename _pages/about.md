@@ -202,6 +202,8 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 ### Journal/Conference Reviewer
 * ICML, ICLR, NeurIPS, CVPR, ICCV, ACMMM, ICRA, IROS, ICME, TNNLS, TASE, TSCVT
 
+### Talk
+* 端到端四足机器人大模型 nd-to-End Quadruped Robot Large Model (https://www.shenlanxueyuan.com/open/course/260)，深蓝学院
 <!-- * IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
 * IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
 * IEEE Transactions on Automation Science and Engineering [(TASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) -->
