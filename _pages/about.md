@@ -198,36 +198,10 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 * ICML, ICLR, NeurIPS, CVPR, ICCV, ACMMM, ICRA, IROS, ICME, TNNLS, TASE, TSCVT
 
 ### Talk
-* 端到端四足机器人大模型 nd-to-End Quadruped Robot Large Model (https://www.shenlanxueyuan.com/open/course/260)，深蓝学院
-<!-- * IEEE Transactions on Neural Networks and Learning Systems[(TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
-* IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieee-cas.org/publication/tcsvt)
-* IEEE Transactions on Automation Science and Engineering [(TASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856) -->
-<!-- * ACM Transactions on Intelligent Systems and Technology [(ACM TIST)](https://dl.acm.org/journal/tist) -->
-<!-- * Concurrency and Computation: Practice and Experience [(CPE)](https://onlinelibrary.wiley.com/journal/15320634) -->
+* 端到端四足机器人大模型[End-to-End Quadruped Robot Large Model](https://www.shenlanxueyuan.com/open/course/260)，深蓝学院
 
-<!-- ### Conference Reviewer -->
-
-
-<!-- * International Conference on Machine Learning [(ICML)](https://icml.cc/)
-* International Conference on Learning Representations [(ICLR)](https://iclr.cc/)
-* Annual Conference on Neural Information Processing Systems [(NeurIPS)](https://neurips.cc/)
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
-* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
-* ACM Multimedia [(ACMMM)](https://acmmm2025.org/)
-* International Conference on Robotics and Automation [(ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-* International Conference on Intelligent Robots and Systems [(IROS)](https://iros2024-abudhabi.org/) -->
-<!-- * European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences) -->
-<!-- * AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/) -->
-<!-- * International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/) -->
-<!-- * IEEE International Conference on Multimedia and Expo [(ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings) -->
-<!-- * ACM International Conference on Multimedia Retrieval [(ICMR)](http://icmr2024.org/) -->
-<!-- * Asian Conference on Computer Vision [(ACCV)](https://link.springer.com/conference/accv) -->
-<!-- * Chinese Conference on Pattern Recognition and Computer Vision [(PRCV)](https://link.springer.com/conference/ccprcv) -->
-<!-- ### Program Committee for Conferences and Workshops -->
-<!-- * Session Chair, The First Westlake Robot Learning Symposium -->
 
 <h2 id='misc'>Misc</h2>
-
 Welcome to follow my [Redbook](https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687).
 
 <!-- <div align="middle">
