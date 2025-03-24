@@ -45,12 +45,12 @@ I am always looking for related collaborations, and some of them have produced t
 * **[Feb 27, 2025]** [BC-IB](https://arxiv.org/pdf/2502.02853) is available in arxiv.
 * **[Feb 21, 2025]** [OTPR](https://www.arxiv.org/pdf/2502.12631) is available in arxiv.
 * **[Feb 21, 2025]** [Humanoid-VLA](https://arxiv.org/pdf/2502.14795) is available in arxiv.
-* **[Jan 28, 2025]** Two papers MoRE, QUART-Online got accepted for ICRA 2025.
-* **[Jan 23, 2025]** Two papers VLAS, GEVRM got accepted for ICLR 2025.
-* **[Dec 25, 2024]** Quart-online is available in arxiv. 
+* **[Jan 28, 2025]** Two papers [MoRE](https://arxiv.org/abs/2503.08007), [QUART-Online](https://arxiv.org/abs/2412.15576) got accepted for ICRA 2025.
+* **[Jan 23, 2025]** Two papers [VLAS](https://openreview.net/pdf?id=K4FAFNRpko), [GEVRM](https://openreview.net/pdf?id=hPWWXpCaJ7) got accepted for ICLR 2025.
+* **[Dec 25, 2024]** [QUART-Online](https://arxiv.org/abs/2412.15576) is available in arxiv. 
 * **[Dec 12, 2024]** [SDP](https://arxiv.org/pdf/2412.09265) is available in arxiv.
 * **[Dec 10, 2024]** [CARP](https://arxiv.org/abs/2412.06782) is available in arxiv.
-* **[Dec 10, 2024]** One paper Cobra got accepted for AAAI 2025.
+* **[Dec 10, 2024]** One paper [Cobra](https://arxiv.org/abs/2403.14520) got accepted for AAAI 2025.
 * **[July 31, 2024]** One paper DHRNet got accepted for KBS 2024.
 * **[July 16, 2024]** One paper ProFD got accepted for ACMMM 2024.
 * **[July 2, 2024]** Two papers QUAR-VLA, PiTe (Oral) got accepted for ECCV 2024.
