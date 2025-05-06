@@ -26,6 +26,9 @@ I am always looking for related collaborations, and some of them have produced t
 
 <h2 id='news'>News</h2>
 
+* **[May 02, 2025]** Three papers [BC-IB](https://arxiv.org/pdf/2502.02853), [OTPR](https://www.arxiv.org/pdf/2502.12631) and ReinboT got accepted for ICML2025.
+* **[Mar 28, 2025]** [Unicorn](https://arxiv.org/pdf/2503.22655) is available in arxiv.
+* **[Mar 27, 2025]** [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/pdf/2503.21765) is available in arxiv.
 * **[Mar 04, 2025]** [PD-VLA](https://arxiv.org/abs/2503.02310) is available in arxiv.
 * **[Feb 27, 2025]** [BC-IB](https://arxiv.org/pdf/2502.02853) is available in arxiv.
 * **[Feb 21, 2025]** [OTPR](https://www.arxiv.org/pdf/2502.12631) is available in arxiv.
@@ -52,6 +55,15 @@ I am always looking for related collaborations, and some of them have produced t
 <a href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DQyBSTzEAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution
 
 ### Peer-reviewed Conference
+
+<img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square"> 
+Shuanghao Bai, Wanqi Zhou, <u>Pengxiang Ding</u>, Wei Zhao, Donglin Wang, Badong Chen &quot;**Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation**&quot;. [[paper](https://arxiv.org/pdf/2502.02853)]
+
+<img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square"> 
+Hongyin Zhang, Zifeng Zhuang, Han Zhao, <u>Pengxiang Ding</u>, Hongchao Lu, Donglin Wang &quot;**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**&quot;. 
+
+<img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square"> 
+Mingyang Sun, <u>Pengxiang Ding</u>, Weinan Zhang, Donglin Wang &quot;**Score-Based Diffusion Policy Compatible with Reinforcement Learning via Optimal Transport**&quot;. [[paper](https://arxiv.org/pdf/2502.02853)]
 
 <img src="https://img.shields.io/badge/ICRA-2025-blue?style=flat-square"> 
 Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xuelian Cheng, Zongyuan Ge &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[paper](https://arxiv.org/abs/2503.08007)]
