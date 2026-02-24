@@ -12,48 +12,70 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 
 <!-- I am <span style="color:red;"><b>seeking exciting postdoc opportunities at top-tier institutions after Ph.D. graduation (July 2024)</b></span>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
 
-<h2 id='research-interests'>Research Interests</h2>
-
-My research has centered on **embodied ai**, including VLA/VLM/World Model. During my Ph.D. studies, I primarily focused on the VLA direction. As first author, co-first author, or project leader, I published 15 papers, with representative works including Quar-VLA, Humanoid-VLA, OpenHelix, and CARP.
 
 
+<h2 id='News'>News</h2>
+<ul class="dash">
+  <li>2 papers have been accpeted by CVPR26.</li>
+  <li>3 papers have been accpeted by ICRA26.</li>
+  <li>2 papers have been accpeted by ICLR26.</li>
+  <li>4 papers have been accpeted by AAAI26.</li>
+  <li>1 papers have been accpeted by CoRL25.</li>
+  <li>1 papers have been accpeted by Neurips25.</li>
+  <li>1 papers have been accpeted by ICCV25.</li>
+  <li>3 papers have been accpeted by ICML25.</li>
+</ul>
 
-<h2 id='publications'> Major Publications</h2>
 
 
-<a href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DQyBSTzEAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  †: Equal contribution or Project Leader 
+
+<h2 id='publications'> Selected Publications (First author or Project leader) x 18</h2>
+
+
+<a href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DQyBSTzEAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  ∗: Equal contribution †: Project Leader 
+
+<img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square">  Minghui Lin, <u>Pengxiang Ding†</u>, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang†, Donglin Wang. &quot;**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**&quot;. 
+
+<img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square">  Xingyu Wang*, <u>Pengxiang Ding*†</u>, Jingkai Xu, Donglin Wang, Zhaoxin Fan. &quot;**CUBic: Coordinated Unified Bimanual Perception and Control Framework**&quot;. 
+
+<img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square">  Jiayi Chen*, Wenxuan Song*, <u>Pengxiang Ding†</u>, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang L. &quot;**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**&quot;. 
+
+
+<img src="https://img.shields.io/badge/ICRA-2026-blue?style=flat-square">  Jiacheng Liu*, <u>Pengxiang Ding†*</u>, Qihang Zhou, Yuxuan Wu, Da Huang, Zimian Peng, Wei Xiao, Weinan Zhang, Lixin Yang, Cewu Lu, Donglin Wang. &quot;**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**&quot;. 
+
+<img src="https://img.shields.io/badge/AAAI-2026-blue?style=flat-square">  Yihao Wang*, <u>Pengxiang Ding†*</u>, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, Han Zhao, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. 
+
+
 
 <img src="https://img.shields.io/badge/CoRL-2025-blue?style=flat-square">  Yiguo Fan†, <u>Pengxiang Ding†</u>,Shuanghao Bai†, Xinyang Tong†, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang. &quot;**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**&quot;. 
 
 
 
-<img src="https://img.shields.io/badge/ICCV-2025-blue?style=flat-square">  Zhefei Gong†, <u>Pengxiang Ding†</u>, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang. &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. 
+<img src="https://img.shields.io/badge/ICCV-2025-blue?style=flat-square">  Zhefei Gong*, <u>Pengxiang Ding†</u>, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang. &quot;**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**&quot;. 
 [[paper](https://arxiv.org/pdf/2506.13725)]
 [[webpage](https://carp-robot.github.io/)]
 [[code](https://github.com/ZhefeiGong/carp)]
 
 
-
-
-<img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Wenxuan Song†, Jiayi Chen†, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Donglin Wang, Haoang Li. &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. 
+<!-- <img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Wenxuan Song*, Jiayi Chen*, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Donglin Wang, Haoang Li. &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. 
 [[paper](https://arxiv.org/pdf/2506.13725)]
 [[webpage](https://irpn-eai.github.io/CEED-VLA/)]
-[[code](https://github.com/OpenHelix-Team/CEED-VLA)]
+[[code](https://github.com/OpenHelix-Team/CEED-VLA)] -->
 
-<img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Yang Liu†, Ming Ma†, Xiaomin Yu†, <u>Pengxiang Ding†</u>, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang. &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;. 
+<img src="https://img.shields.io/badge/Nerupis-2025-blue?style=flat-square">  Yang Liu†, Ming Ma†, Xiaomin Yu†, <u>Pengxiang Ding†</u>, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang. &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;. 
 [[paper](https://arxiv.org/pdf/2505.12448?)]
 [[webpage](https://yliu-cs.github.io/SSR/)]
 [[code](https://github.com/yliu-cs/SSR)]
 
 
-<img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Xiaomin Yu†, <u>Pengxiang Ding†</u>, Wenjie Zhang, Siteng Huang, Songyang Gao, Chengwei Qin, Kejian Wu, Zhaoxin Fan, Ziyue Qiao, Donglin Wang. &quot;**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**&quot;. 
+<!-- <img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Xiaomin Yu†, <u>Pengxiang Ding†</u>, Wenjie Zhang, Siteng Huang, Songyang Gao, Chengwei Qin, Kejian Wu, Zhaoxin Fan, Ziyue Qiao, Donglin Wang. &quot;**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**&quot;. 
 [[paper](https://arxiv.org/abs/2503.22655)]
-[[code](https://github.com/Yu-xm/Unicorn)]
+[[code](https://github.com/Yu-xm/Unicorn)] -->
 
-<img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square"> Can Cui†, <u>Pengxiang Ding†</u>, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang. &quot;**Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation**&quot;. 
+<!-- <img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square"> Can Cui†, <u>Pengxiang Ding†</u>, Wenxuan Song, Shuanghao Bai, Xinyang Tong, Zirui Ge, Runze Suo, Wanqi Zhou, Yang Liu, Bofang Jia, Han Zhao, Siteng Huang, Donglin Wang. &quot;**Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation**&quot;. 
 [[paper](https://arxiv.org/abs/2505.03912)]
 [[webpage](https://openhelix-robot.github.io/)]
-[[code](https://github.com/OpenHelix-robot/OpenHelix)]
+[[code](https://github.com/OpenHelix-robot/OpenHelix)] -->
 
 <img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square"> <u>Pengxiang Ding†</u>, Jianfei Ma†, Xinyang Tong†, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, Siteng Huang, Donglin Wang. &quot;**Humanoid-vla: Towards universal humanoid control with visual integration**&quot;. 
 [[paper](https://arxiv.org/pdf/2502.14795?)]
@@ -63,7 +85,7 @@ My research has centered on **embodied ai**, including VLA/VLM/World Model. Duri
 <img src="https://img.shields.io/badge/IROS-2025-blue?style=flat-square">  Wenxuan Song†, Jiayi Chen†, <u>Pengxiang Ding†</u>, Han Zhao, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li. &quot;**Accelerating vision-language-action model integrated with action chunking via parallel decoding**&quot;. 
 [[paper](https://arxiv.org/abs/2503.22655)]
 
-<img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square">   Shuanghao Bai†, Wanqi Zhou†, <u>Pengxiang Ding†</u>, Wei Zhao, Donglin Wang, Badong Chen. &quot;**Rethinking Latent Representations in Behavior Cloning:An Information Bottleneck Approach for Robot Manipulation**&quot;. 
+<img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square">   Shuanghao Bai*, Wanqi Zhou*, <u>Pengxiang Ding†</u>, Wei Zhao, Donglin Wang, Badong Chen. &quot;**Rethinking Latent Representations in Behavior Cloning:An Information Bottleneck Approach for Robot Manipulation**&quot;. 
 [[paper](https://arxiv.org/pdf/2502.02853)]
 [[webpage](https://baishuanghao.github.io/BC-IB.github.io/)]
 [[code](https://github.com/BaiShuanghao/BC-IB)]
@@ -89,22 +111,19 @@ My research has centered on **embodied ai**, including VLA/VLM/World Model. Duri
 <img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)][[code](https://github.com/Dingpx/Motion-Coordination)] 
 
 
-### Other Pubulications
+<!-- ### Other Pubulications
 
 <img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square">  Hongyin Zhang, Zifeng Zhuang, Han Zhao, <u>Pengxiang Ding</u>, Hongchao Lu, Donglin Wang.
 &quot;**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning.**&quot;
 
 
-
 <img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square"> 
 Mingyang Sun, <u>Pengxiang Ding</u>, Weinan Zhang, Donglin Wang.
-
 &quot;**Score-Based Diffusion Policy Compatible with Reinforcement Learning via Optimal Transport.**&quot;
-[[paper](https://arxiv.org/pdf/2502.02853)]
+
 
 <img src="https://img.shields.io/badge/ICRA-2025-blue?style=flat-square"> 
 Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xuelian Cheng, Zongyuan Ge.
-
 &quot;**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**&quot;. [[paper](https://arxiv.org/abs/2503.08007)]
 
 <img src="https://img.shields.io/badge/AAAI-2025-blue?style=flat-square"> Han Zhao, Min Zhang, Wei Zhao, <u>Pengxiang Ding</u>, Siteng Huang, Donglin Wang, &quot;**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**&quot;. *AAAI2025*. [[paper](https://arxiv.org/pdf/2403.14520.pdf)] [[project page](https://sites.google.com/view/cobravlm)] [[Chinese intro](https://zhuanlan.zhihu.com/p/688544752)] [[github](https://github.com/h-zhao1997/cobra)] [[demo](https://huggingface.co/spaces/han1997/cobra)] [[Twitter@AK](https://twitter.com/_akhaliq/status/1771033002748837953?t=6S4PVZXg6GcXqi_-PFzipw&s=19)]
@@ -123,7 +142,7 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 
 
-<img src="https://img.shields.io/badge/TCSVT%20-%202020%20-%20red"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)][[code](https://github.com/lily2lab/TrajectoryCNN)]  
+<img src="https://img.shields.io/badge/TCSVT%20-%202020%20-%20red"> Xiaoli Liu, Jianqin Yin, Jin Liu, <u>Pengxiang Ding</u>, Jun Liu, Huaping Liu, &quot;**Trajectorycnn: a new spatio-temporal feature learning network for human motion prediction**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/1910.06583)][[code](https://github.com/lily2lab/TrajectoryCNN)]   -->
 
 <h2 id='experience'>Experience</h2>
 
