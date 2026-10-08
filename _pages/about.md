@@ -45,7 +45,6 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 
 <span id="sage-3d"></span>
 <img src="https://img.shields.io/badge/CoRL-2026-blue?style=flat-square" alt="CoRL 2026"> <u>Pengxiang Ding</u>, Xuanxuan An, Kexian Yu, Haoying Wang, Minghui Lin, Xuhao Wan, Wenxuan Song, Han Zhao, Yihao Wang, Donglin Wang, Ning Ding. &quot;**SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models**&quot;.
-[[acceptance announcement](https://gr.xjtu.edu.cn/dingning/zh_CN/zdylm/1001743/list/index.htm)]
 
 <span id="efficient-decoding"></span>
 <img src="https://img.shields.io/badge/ECCV-2026-blue?style=flat-square" alt="ECCV 2026"> Wenxuan Song*, Jiayi Chen*, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Yinchuan Li, Yingcong Chen, Donglin Wang, Haoang Li. &quot;**Towards More Efficient Decoding for Autoregressive Vision-language-action Models**&quot;.
@@ -220,5 +219,4 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 <h2 id='misc'>Misc</h2>
 Welcome to follow my [Redbook](https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687).
-
 
