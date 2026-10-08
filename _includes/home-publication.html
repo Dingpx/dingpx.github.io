@@ -1,0 +1,12 @@
+<article class="publication" id="{{ include.paper.id }}">
+  <div class="publication-venue"><span>{{ include.paper.venue }}</span><time>{{ include.paper.year }}</time></div>
+  <div class="publication-detail">
+    <h3>{{ include.paper.title | escape }}</h3>
+    <p class="publication-authors">{{ include.paper.authors_html }}</p>
+    {% if include.paper.links.size > 0 %}
+    <div class="publication-links" aria-label="Links for {{ include.paper.title | escape }}">
+      {% for link in include.paper.links %}<a href="{{ link.url | escape }}">{{ link.label | capitalize }} <span aria-hidden="true">↗</span></a>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>

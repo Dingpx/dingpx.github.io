@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2026,
+    "venue": "NeurIPS",
+    "body_html": "1 paper accepted: <a href=\"#predictive-mind\">Endowing Your Vision-Language-Action Model with a Predictive Mind</a>."
+  },
+  {
+    "year": 2026,
+    "venue": "CoRL",
+    "body_html": "1 paper accepted: <a href=\"#sage-3d\">SAGE-3D</a>."
+  },
+  {
+    "year": 2026,
+    "venue": "ECCV",
+    "body_html": "2 papers accepted: <a href=\"#fast-dvla\">Fast-dVLA</a> and <a href=\"#efficient-decoding\">Towards More Efficient Decoding for Autoregressive Vision-language-action Models</a>."
+  },
+  {
+    "year": 2026,
+    "venue": "ICML",
+    "body_html": "1 paper accepted: <a href=\"#dyn-vpp\">Dyn-VPP</a>."
+  },
+  {
+    "year": 2026,
+    "venue": "CVPR",
+    "body_html": "2 papers accepted."
+  },
+  {
+    "year": 2026,
+    "venue": "ICRA",
+    "body_html": "3 papers accepted."
+  },
+  {
+    "year": 2026,
+    "venue": "ICLR",
+    "body_html": "2 papers accepted."
+  },
+  {
+    "year": 2026,
+    "venue": "AAAI",
+    "body_html": "4 papers accepted."
+  },
+  {
+    "year": 2025,
+    "venue": "NeurIPS",
+    "body_html": "1 paper accepted."
+  },
+  {
+    "year": 2025,
+    "venue": "CoRL",
+    "body_html": "1 paper accepted."
+  },
+  {
+    "year": 2025,
+    "venue": "ICCV",
+    "body_html": "1 paper accepted."
+  },
+  {
+    "year": 2025,
+    "venue": "ICML",
+    "body_html": "3 papers accepted."
+  }
+]

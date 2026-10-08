@@ -1,0 +1,87 @@
+---
+layout: home
+permalink: /
+title: "Pengxiang Ding 丁鹏翔"
+excerpt: "Pengxiang Ding — Founder and CEO of Symbiosis Robotics. Research on vision-language-action models and whole-body humanoid intelligence."
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<section class="hero" id="about" aria-labelledby="intro-title">
+  <div class="hero-copy">
+    <p class="eyebrow">Researcher &amp; Founder</p>
+    <h1 id="intro-title">Pengxiang Ding <span lang="zh">丁鹏翔</span></h1>
+    <p class="intro-lead">I am the founder and CEO of <a href="https://symbiosis-robotics.com/">Symbiosis Robotics <span lang="zh">(共生知行)</span></a>, where we build foundation models for whole-body humanoid intelligence.</p>
+    <p>My research focuses on <strong>vision-language-action models</strong> and <strong>whole-body control</strong>.</p>
+    <p>I am a Ph.D. student at <a href="https://www.zju.edu.cn/">Zhejiang University</a> in a joint program with <a href="https://www.westlake.edu.cn/">Westlake University</a>, advised by Prof. <a href="https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml">Donglin Wang</a> in the <a href="https://milab.westlake.edu.cn/">Machine Intelligence Laboratory (MiLAB)</a>.</p>
+    <p class="education-note">Previously, I received my M.Sc. from the School of Artificial Intelligence at <a href="https://www.bupt.edu.cn/">BUPT</a> in 2022, advised by Prof. <a href="https://teacher.bupt.edu.cn/yinjianqin/zh_CN/index.htm">Jianqin Yin</a>.</p>
+    <div class="contact-links" aria-label="Contact and profiles">
+      <a class="contact-primary" href="mailto:dingpx2015@gmail.com">Email <span aria-hidden="true">↗</span></a>
+      <a href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
+      <a href="https://github.com/Dingpx">GitHub <span aria-hidden="true">↗</span></a>
+      <a href="https://x.com/kkbllp">X <span aria-hidden="true">↗</span></a>
+      <a href="https://orcid.org/0000-0002-4049-7467">ORCID <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <figure class="portrait">
+    <img src="{{ '/images/pxding.jpg' | relative_url }}" alt="Pengxiang Ding as a child" width="400" height="400" fetchpriority="high">
+    <figcaption><span class="location-dot" aria-hidden="true"></span>Hangzhou, China</figcaption>
+  </figure>
+</section>
+
+<a class="company-banner" href="https://symbiosis-robotics.com/">
+  <div class="company-name"><span>Symbiosis Robotics</span><span lang="zh">共生知行</span></div>
+  <span class="company-slogan">From Humanoid to Human</span>
+  <span class="company-arrow" aria-hidden="true">↗</span>
+</a>
+
+<section class="news-section" id="news" aria-labelledby="news-title">
+  <span id="News" class="anchor-alias"></span>
+  <div class="section-heading"><h2 id="news-title">News</h2><span class="section-note">Scroll for earlier updates <span aria-hidden="true">↓</span></span></div>
+  <div class="news-scroll" tabindex="0" role="region" aria-label="Research news, scroll for earlier updates">
+    <ul class="news-list">
+      {% for item in site.data.home_news %}
+      <li><time>{{ item.year }}</time><span class="news-venue">{{ item.venue }}</span><span class="news-body">{{ item.body_html }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+{% assign selected_papers = site.data.home_publications | where: "selected", true %}
+{% assign other_papers = site.data.home_publications | where: "selected", false %}
+<section class="publications-section" id="publications" aria-labelledby="publications-title">
+  <div class="section-heading publication-heading"><h2 id="publications-title">Selected publications <span class="count">{{ selected_papers.size }}</span></h2><a class="section-link" href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a></div>
+  <p class="section-description">First author or project leader. <span class="contribution-legend">* Equal contribution &nbsp; † Project leader</span></p>
+  <div class="publication-list">{% for paper in selected_papers %}{% include home-publication.html paper=paper %}{% endfor %}</div>
+</section>
+
+<section class="publications-section other-publications" id="other-publications" aria-labelledby="other-publications-title">
+  <div class="section-heading"><h2 id="other-publications-title">Other publications <span class="count">{{ other_papers.size }}</span></h2><span class="section-note">2026</span></div>
+  <div class="publication-list">{% for paper in other_papers %}{% include home-publication.html paper=paper %}{% endfor %}</div>
+</section>
+
+<div class="background-grid">
+  <section id="experience" aria-labelledby="experience-title">
+    <h2 id="experience-title">Experience</h2>
+    <ol class="experience-list">
+      <li><span class="experience-date">2025 · Jan–Jun</span><h3>DAMO Academy</h3><p>Research Intern · Machine Intelligence Laboratory</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=syD9lxQAAAAJ&amp;hl=zh-CN">Xin Li</a></p></li>
+      <li><span class="experience-date">2022 Sep–2023 Mar</span><h3>RedBook</h3><p>Research Intern · Intelligent Creation Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=EaMsuB0AAAAJ">Haofan Wang</a></p></li>
+      <li><span class="experience-date">2021 Sep–2022 Mar</span><h3>SenseTime</h3><p>Research Intern · Smart City Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=gurERzcAAAAJ">Dongliang Wang</a></p></li>
+    </ol>
+  </section>
+  <div class="service-column">
+    <section id="services" aria-labelledby="services-title">
+      <h2 id="services-title">Service &amp; talks</h2>
+      <h3 class="small-heading">Journal &amp; conference reviewer</h3>
+      <p class="reviewer-list">ICML, ICLR, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICRA, IROS, CoRL, TNNLS, TASE, TCSVT</p>
+      <h3 class="small-heading talks-heading">Selected talks</h3>
+      <ul class="talk-list">
+        <li><a href="https://www.shenlanxueyuan.com/open/course/260">Vision-Language-Action Models <span aria-hidden="true">↗</span></a><span>Hao Dong, Peking University</span></li>
+        <li><a href="https://www.bilibili.com/video/BV1n9MHzNEBy/">MiLAB VLA 专场 <span aria-hidden="true">↗</span></a><span>3D 视觉工坊</span></li>
+        <li><a href="https://www.shenlanxueyuan.com/open/course/260">End-to-End Quadruped Robot Large Model <span aria-hidden="true">↗</span></a><span>深蓝学院</span></li>
+      </ul>
+    </section>
+    <section id="misc" class="elsewhere" aria-labelledby="elsewhere-title"><h3 id="elsewhere-title" class="small-heading">Elsewhere</h3><p>You can also find me on <a href="https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687">Redbook <span aria-hidden="true">↗</span></a>.</p></section>
+  </div>
+</div>

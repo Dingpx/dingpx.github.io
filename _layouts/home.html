@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} · Research &amp; Robotics</title>
+  <meta name="description" content="{{ page.excerpt | escape }}">
+  <meta name="theme-color" content="#f9faf7">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.excerpt | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/pxding.jpg' | absolute_url }}">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="wordmark" href="#top" aria-label="Pengxiang Ding, back to top">Pengxiang Ding<span class="wordmark-dot" aria-hidden="true">.</span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+    </nav>
+  </header>
+  <main id="main" class="wrap">{{ content }}</main>
+  <footer class="site-footer wrap">
+    <div><span class="footer-name">Pengxiang Ding · 丁鹏翔</span><span class="footer-note">Research, robotics, and everything in between.</span></div>
+    <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+  </footer>
+</body>
+</html>

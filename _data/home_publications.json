@@ -1,0 +1,466 @@
+[
+  {
+    "id": "predictive-mind",
+    "venue": "NeurIPS",
+    "year": 2026,
+    "title": "Endowing Your Vision-Language-Action Model with a Predictive Mind",
+    "authors_html": "<u>Pengxiang Ding</u>, Haoying Wang, Minghui Lin, Qishen Wang, Zhenyu Ding, Runze Suo, Xuanxuan An, Wenxuan Song, Fuhao Li, Han Zhao, Donglin Wang, Ning Ding",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=61rEbqQcpq"
+      },
+      {
+        "label": "conference",
+        "url": "https://neurips.cc/virtual/2026/poster/155390"
+      }
+    ]
+  },
+  {
+    "id": "sage-3d",
+    "venue": "CoRL",
+    "year": 2026,
+    "title": "SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models",
+    "authors_html": "<u>Pengxiang Ding</u>, Xuanxuan An, Kexian Yu, Haoying Wang, Minghui Lin, Xuhao Wan, Wenxuan Song, Han Zhao, Yihao Wang, Donglin Wang, Ning Ding",
+    "selected": true,
+    "links": []
+  },
+  {
+    "id": "efficient-decoding",
+    "venue": "ECCV",
+    "year": 2026,
+    "title": "Towards More Efficient Decoding for Autoregressive Vision-language-action Models",
+    "authors_html": "Wenxuan Song*, Jiayi Chen*, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Yinchuan Li, Yingcong Chen, Donglin Wang, Haoang Li",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6779.pdf"
+      },
+      {
+        "label": "conference",
+        "url": "https://eccv.ecva.net/virtual/2026/poster/4634"
+      }
+    ]
+  },
+  {
+    "id": "hif-vla-hindsight-insight-and-foresight-through-motion-representation-for-vision-language-action-models",
+    "venue": "CVPR",
+    "year": 2026,
+    "title": "HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models",
+    "authors_html": "Minghui Lin, <u>Pengxiang Ding†</u>, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang†, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=emmEaXXDxV"
+      }
+    ]
+  },
+  {
+    "id": "cubic-coordinated-unified-bimanual-perception-and-control-framework",
+    "venue": "CVPR",
+    "year": 2026,
+    "title": "CUBic: Coordinated Unified Bimanual Perception and Control Framework",
+    "authors_html": "Xingyu Wang*, <u>Pengxiang Ding*†</u>, Jingkai Xu, Donglin Wang, Zhaoxin Fan",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=VJmC9tBAye"
+      }
+    ]
+  },
+  {
+    "id": "unified-diffusion-vla-vision-language-action-model-via-joint-discrete-denoising-diffusion-process",
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process",
+    "authors_html": "Jiayi Chen*, Wenxuan Song*, <u>Pengxiang Ding†</u>, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=UvQOcw2oCD"
+      }
+    ]
+  },
+  {
+    "id": "trajbooster-boosting-humanoid-whole-body-manipulation-via-trajectory-centric-learning",
+    "venue": "ICRA",
+    "year": 2026,
+    "title": "TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning",
+    "authors_html": "Jiacheng Liu*, <u>Pengxiang Ding†*</u>, Qihang Zhou, Yuxuan Wu, Da Huang, Zimian Peng, Wei Xiao, Weinan Zhang, Lixin Yang, Cewu Lu, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=tcrUFpNVno"
+      }
+    ]
+  },
+  {
+    "id": "vla-adapter-an-effective-paradigm-for-tiny-scale-vision-language-action-model",
+    "venue": "AAAI",
+    "year": 2026,
+    "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model",
+    "authors_html": "Yihao Wang*, <u>Pengxiang Ding†*</u>, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, Han Zhao, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=VLg5oCyB24"
+      }
+    ]
+  },
+  {
+    "id": "long-vla-unleashing-long-horizon-capability-of-vision-language-action-model-for-robot-manipulation",
+    "venue": "CoRL",
+    "year": 2025,
+    "title": "Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation",
+    "authors_html": "Yiguo Fan†, <u>Pengxiang Ding†</u>,Shuanghao Bai†, Xinyang Tong†, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang, Zhaoxin Fan, Badong Chen, Donglin Wang",
+    "selected": true,
+    "links": []
+  },
+  {
+    "id": "carp-visuomotor-policy-learning-via-coarse-to-fine-autoregressive-prediction",
+    "venue": "ICCV",
+    "year": 2025,
+    "title": "CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction",
+    "authors_html": "Zhefei Gong*, <u>Pengxiang Ding†</u>, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao, Zhaoxin Fan, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/pdf/2506.13725"
+      },
+      {
+        "label": "webpage",
+        "url": "https://carp-robot.github.io/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/ZhefeiGong/carp"
+      }
+    ]
+  },
+  {
+    "id": "ssr-enhancing-depth-perception-in-vision-language-models-via-rationale-guided-spatial-reasoning",
+    "venue": "NeurIPS",
+    "year": 2025,
+    "title": "SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning",
+    "authors_html": "Yang Liu†, Ming Ma†, Xiaomin Yu†, <u>Pengxiang Ding†</u>, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/pdf/2505.12448?"
+      },
+      {
+        "label": "webpage",
+        "url": "https://yliu-cs.github.io/SSR/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/yliu-cs/SSR"
+      }
+    ]
+  },
+  {
+    "id": "humanoid-vla-towards-universal-humanoid-control-with-visual-integration",
+    "venue": "arXiv",
+    "year": 2025,
+    "title": "Humanoid-vla: Towards universal humanoid control with visual integration",
+    "authors_html": "<u>Pengxiang Ding†</u>, Jianfei Ma†, Xinyang Tong†, Binghong Zou, Xinxin Luo, Yiguo Fan, Ting Wang, Hongchao Lu, Panzhong Mo, Jinxin Liu, Yuefan Wang, Huaicheng Zhou, Wenshuo Feng, Jiacheng Liu, Siteng Huang, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/pdf/2502.14795?"
+      }
+    ]
+  },
+  {
+    "id": "accelerating-vision-language-action-model-integrated-with-action-chunking-via-parallel-decoding",
+    "venue": "IROS",
+    "year": 2025,
+    "title": "Accelerating vision-language-action model integrated with action chunking via parallel decoding",
+    "authors_html": "Wenxuan Song†, Jiayi Chen†, <u>Pengxiang Ding†</u>, Han Zhao, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=KJXrWMOZNI"
+      }
+    ]
+  },
+  {
+    "id": "rethinking-latent-representations-in-behavior-cloning-an-information-bottleneck-approach-for-robot-manipulation",
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Rethinking Latent Representations in Behavior Cloning:An Information Bottleneck Approach for Robot Manipulation",
+    "authors_html": "Shuanghao Bai*, Wanqi Zhou*, <u>Pengxiang Ding†</u>, Wei Zhao, Donglin Wang, Badong Chen",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/pdf/2502.02853"
+      },
+      {
+        "label": "webpage",
+        "url": "https://baishuanghao.github.io/BC-IB.github.io/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/BaiShuanghao/BC-IB"
+      }
+    ]
+  },
+  {
+    "id": "quart-online-latency-free-large-multimodal-language-model-for-quadruped-robot-learning",
+    "venue": "ICRA",
+    "year": 2025,
+    "title": "QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning",
+    "authors_html": "Xinyang Tong†, <u>Pengxiang Ding†</u>, Donglin Wang, Wenjie Zhang, Can Cui, Mingyang Sun, Yiguo Fan, Han Zhao, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2412.15576"
+      },
+      {
+        "label": "webpage",
+        "url": "https://quart-online.github.io/"
+      }
+    ]
+  },
+  {
+    "id": "gevrm-goal-expressive-video-generation-model-for-robust-visual-manipulation",
+    "venue": "ICLR",
+    "year": 2025,
+    "title": "GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation",
+    "authors_html": "Hongyin Zhang, <u>Pengxiang Ding†</u>, Shangke Lyu, Ying Peng, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/pdf?id=hPWWXpCaJ7"
+      }
+    ]
+  },
+  {
+    "id": "vlas-vision-language-action-model-with-speech-instructions-for-customized-robot-manipulation",
+    "venue": "ICLR",
+    "year": 2025,
+    "title": "VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation",
+    "authors_html": "Wei Zhao, <u>Pengxiang Ding†</u>, Zhang Min, Zhefei Gong, Shuanghao Bai, Han Zhao, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/pdf?id=K4FAFNRpko"
+      }
+    ]
+  },
+  {
+    "id": "quar-vla-vision-language-action-model-for-quadruped-robots",
+    "venue": "ECCV",
+    "year": 2024,
+    "title": "QUAR-VLA: Vision-Language-Action Model for Quadruped Robots",
+    "authors_html": "<u>Pengxiang Ding</u>, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, Siteng Huang, Ningxi Yang, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2312.14457"
+      },
+      {
+        "label": "Project",
+        "url": "https://sites.google.com/view/quar-vla/quar-vla-eccv24"
+      }
+    ]
+  },
+  {
+    "id": "pite-pixel-temporal-alignment-for-large-video-language-model",
+    "venue": "ECCV",
+    "year": 2024,
+    "title": "PiTe: Pixel-Temporal Alignment for Large Video-Language Model",
+    "authors_html": "Yang Liu†, <u>Pengxiang Ding†</u>, Siteng Huang, Min Zhang, Han Zhao, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2409.07239"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/yliu-cs/pite"
+      }
+    ]
+  },
+  {
+    "id": "expressive-forecasting-of-3d-whole-body-human-motions",
+    "venue": "AAAI",
+    "year": 2024,
+    "title": "Expressive Forecasting of 3D Whole-body Human Motions",
+    "authors_html": "<u>Pengxiang Ding</u>, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2312.11972"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Dingpx/EAI"
+      }
+    ]
+  },
+  {
+    "id": "towards-more-realistic-human-motion-prediction-with-attention-to-motion-coordination",
+    "venue": "TCSVT",
+    "year": 2022,
+    "title": "Towards more realistic human motion prediction with attention to motion coordination",
+    "authors_html": "<u>Pengxiang Ding</u>, Jianqin Yin",
+    "selected": true,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2404.03584"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Dingpx/Motion-Coordination"
+      }
+    ]
+  },
+  {
+    "id": "fast-dvla",
+    "venue": "ECCV",
+    "year": 2026,
+    "title": "Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance",
+    "authors_html": "Wenxuan Song, Jiayi Chen, Shuai Chen, Jingbo Wang, <u>Pengxiang Ding</u>, Han Zhao, Yikai Qin, Xinhu Zheng, Yan Wang, Donglin Wang, Haoang Li",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6807.pdf"
+      },
+      {
+        "label": "conference",
+        "url": "https://eccv.ecva.net/virtual/2026/poster/4640"
+      }
+    ]
+  },
+  {
+    "id": "dyn-vpp",
+    "venue": "ICML",
+    "year": 2026,
+    "title": "Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics",
+    "authors_html": "Zirui Ge, <u>Pengxiang Ding</u>, Baohua Yin, Yemin Wang, Qishen Wang, Zhiyong Xie, Hengtao Li, Runze Suo, Wenxuan Song, Han Zhao, Shangke Lyu, Haoang Li, Ran Cheng, Cheng Chi, Hui-Bin Ge, Yaozhi Luo, Donglin Wang",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://proceedings.mlr.press/v306/ge26a.html"
+      },
+      {
+        "label": "OpenReview",
+        "url": "https://openreview.net/forum?id=35LVVvPRaE"
+      }
+    ]
+  },
+  {
+    "id": "rethinking-the-practicality-of-vision-language-action-model-a-comprehensive-benchmark-and-an-improved-baseline",
+    "venue": "ICRA",
+    "year": 2026,
+    "title": "Rethinking the Practicality of Vision-Language-Action Model: A Comprehensive Benchmark and an Improved Baseline",
+    "authors_html": "Wenxuan Song, Jiayi Chen, Xiaoquan Sun, Huashuo Lei, Yikai Qin, Wei Zhao, <u>Pengxiang Ding</u>, Han Zhao, Tongxin Wang, Pengxu Hou, Zhide Zhong, Haodong Yan, Donglin Wang, Jun Ma, Haoang Li",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=aRHldjYIct"
+      }
+    ]
+  },
+  {
+    "id": "robust-online-residual-refinement-via-koopman-guided-dynamics-modeling",
+    "venue": "ICRA",
+    "year": 2026,
+    "title": "Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling",
+    "authors_html": "Zhefei Gong, Shangke Lyu, <u>Pengxiang Ding</u>, Wei Xiao, Donglin Wang",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=bvSlVqQ3yx"
+      }
+    ]
+  },
+  {
+    "id": "spatial-forcing-implicit-spatial-representation-alignment-for-vision-language-action-model",
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model",
+    "authors_html": "Fuhao Li, Wenxuan Song, Han Zhao, Jingbo Wang, <u>Pengxiang Ding</u>, Donglin Wang, Long Zeng, Haoang Li",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://openreview.net/forum?id=euMVC1DO4k"
+      },
+      {
+        "label": "webpage",
+        "url": "https://spatial-forcing.github.io/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/OpenHelix-Team/Spatial-Forcing"
+      }
+    ]
+  },
+  {
+    "id": "reconvla-reconstructive-vision-language-action-model-as-effective-robot-perceiver",
+    "venue": "AAAI",
+    "year": 2026,
+    "title": "ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver",
+    "authors_html": "Wenxuan Song, Ziyang Zhou, Han Zhao, Jiayi Chen, <u>Pengxiang Ding</u>, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38921"
+      }
+    ]
+  },
+  {
+    "id": "filter-correlate-compress-training-free-token-reduction-for-mllm-acceleration",
+    "venue": "AAAI",
+    "year": 2026,
+    "title": "Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration",
+    "authors_html": "Yuhang Han, Xuyang Liu, Zihan Zhang, <u>Pengxiang Ding</u>, Junjie Chen, Honggang Chen, Donglin Wang, Qingsen Yan, Siteng Huang",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42460"
+      }
+    ]
+  },
+  {
+    "id": "rethinking-target-label-conditioning-in-adversarial-attacks-a-2d-tensor-guided-generative-approach",
+    "venue": "AAAI",
+    "year": 2026,
+    "title": "Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach",
+    "authors_html": "Hangyu Liu, Bo Peng, <u>Pengxiang Ding</u>, Donglin Wang",
+    "selected": false,
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/37651"
+      }
+    ]
+  }
+]
