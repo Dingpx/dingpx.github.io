@@ -62,26 +62,47 @@ redirect_from:
 </section>
 
 <div class="background-grid">
+  <div class="experience-column">
   <section id="experience" aria-labelledby="experience-title">
     <h2 id="experience-title">Experience</h2>
     <ol class="experience-list">
-      <li><span class="experience-date">2025 · Jan–Jun</span><h3>DAMO Academy</h3><p>Research Intern · Machine Intelligence Laboratory</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=syD9lxQAAAAJ&amp;hl=zh-CN">Xin Li</a></p></li>
-      <li><span class="experience-date">2022 Sep–2023 Mar</span><h3>RedBook</h3><p>Research Intern · Intelligent Creation Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=EaMsuB0AAAAJ">Haofan Wang</a></p></li>
-      <li><span class="experience-date">2021 Sep–2022 Mar</span><h3>SenseTime</h3><p>Research Intern · Smart City Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=gurERzcAAAAJ">Dongliang Wang</a></p></li>
+      <li><span class="experience-date"><time datetime="2026-03">Mar 2026</time>–<time datetime="2026-06">Jun 2026</time></span><h3>Xiaomi <span class="organization-zh" lang="zh">小米</span></h3><p>Intern</p></li>
+      <li><span class="experience-date"><time datetime="2025-10">Oct 2025</time>–<time datetime="2026-02">Feb 2026</time></span><h3>Ant Group · Robbyant</h3><p>Intern <span class="organization-zh" lang="zh">蚂蚁灵波</span></p></li>
+      <li><span class="experience-date">Jan 2025–Jun 2025</span><h3>DAMO Academy</h3><p>Research Intern · Machine Intelligence Laboratory</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=syD9lxQAAAAJ&amp;hl=zh-CN">Xin Li</a></p></li>
+      <li><span class="experience-date">Sep 2022–Mar 2023</span><h3>RedBook</h3><p>Research Intern · Intelligent Creation Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=EaMsuB0AAAAJ">Haofan Wang</a></p></li>
+      <li><span class="experience-date">Sep 2021–Mar 2022</span><h3>SenseTime</h3><p>Research Intern · Smart City Group</p><p class="advisor">Advisor: <a href="https://scholar.google.com/citations?user=gurERzcAAAAJ">Dongliang Wang</a></p></li>
     </ol>
   </section>
-  <div class="service-column">
-    <section id="services" aria-labelledby="services-title">
-      <h2 id="services-title">Service &amp; talks</h2>
+    <section id="services" class="academic-service" aria-labelledby="services-title">
+      <h2 id="services-title">Academic service</h2>
       <h3 class="small-heading">Journal &amp; conference reviewer</h3>
       <p class="reviewer-list">ICML, ICLR, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICRA, IROS, CoRL, TNNLS, TASE, TCSVT</p>
-      <h3 class="small-heading talks-heading">Selected talks</h3>
-      <ul class="talk-list">
-        <li><a href="https://www.shenlanxueyuan.com/open/course/260">Vision-Language-Action Models <span aria-hidden="true">↗</span></a><span>Hao Dong, Peking University</span></li>
-        <li><a href="https://www.bilibili.com/video/BV1n9MHzNEBy/">MiLAB VLA 专场 <span aria-hidden="true">↗</span></a><span>3D 视觉工坊</span></li>
-        <li><a href="https://www.shenlanxueyuan.com/open/course/260">End-to-End Quadruped Robot Large Model <span aria-hidden="true">↗</span></a><span>深蓝学院</span></li>
-      </ul>
     </section>
     <section id="misc" class="elsewhere" aria-labelledby="elsewhere-title"><h3 id="elsewhere-title" class="small-heading">Elsewhere</h3><p>You can also find me on <a href="https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687">Redbook <span aria-hidden="true">↗</span></a>.</p></section>
   </div>
+  <section id="talks" aria-labelledby="talks-title">
+    <div class="section-heading"><h2 id="talks-title">Talks &amp; discussions <span class="count">{{ site.data.home_talks.size }}</span></h2></div>
+    <ol class="talk-list">
+      {% for talk in site.data.home_talks %}
+      <li id="{{ talk.id }}">
+        <div class="talk-meta">{% if talk.date != "" %}<time datetime="{{ talk.date }}">{{ talk.date_label }}</time>{% endif %}<span>{{ talk.kind }}</span></div>
+        <h3>{% if talk.url != "" %}<a href="{{ talk.url | escape }}">{{ talk.title | escape }}&nbsp;<span aria-hidden="true">↗</span></a>{% else %}{{ talk.title | escape }}{% endif %}</h3>
+        <p class="talk-host">{{ talk.host | escape }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
 </div>
+
+<section class="media-section" id="media" aria-labelledby="media-title">
+  <h2 id="media-title">Interviews &amp; features</h2>
+  <div class="media-grid">
+    {% for item in site.data.home_media %}
+    <article class="media-item">
+      <div class="media-outlet">{{ item.outlet | escape }}</div>
+      <h3><a href="{{ item.url | escape }}">{{ item.title | escape }}&nbsp;<span aria-hidden="true">↗</span></a></h3>
+      <p class="media-meta"><time datetime="{{ item.date }}">{{ item.date_label }}</time> · {{ item.kind }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>

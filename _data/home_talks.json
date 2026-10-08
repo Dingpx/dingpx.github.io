@@ -1,0 +1,72 @@
+[
+  {
+    "id": "chongli-2026",
+    "title": "What Are AI Builders Changing?",
+    "original_title": "AI Builders正在改变什么？",
+    "date": "2026-09-12",
+    "date_label": "Sep 12, 2026",
+    "kind": "Talk",
+    "host": "Chongli Forum · AI Builders Show · 甲子光年",
+    "url": "https://www.przwt.com/releases/story/25301.html"
+  },
+  {
+    "id": "wrc-developer-night-2026",
+    "title": "World Models, Robot Intelligence, and Control",
+    "original_title": "世界模型，能让机器人真正看懂世界吗？",
+    "date": "2026-08-21",
+    "date_label": "Aug 21, 2026",
+    "kind": "Panel discussion",
+    "host": "WRC 2026 Developer After Party · 北京人形 / Xbotics",
+    "url": "https://www.x-humanoid.com/m/news-view-300.html"
+  },
+  {
+    "id": "eaircon-2025",
+    "title": "Advancing VLA Models across Robot Embodiments",
+    "original_title": "多构型VLA如何破局",
+    "date": "2025-11-19",
+    "date_label": "Nov 19, 2025",
+    "kind": "Conference talk",
+    "host": "EAIRCon 2025 · Shenzhen · 智猩猩 / 智东西",
+    "url": "https://www.zhidx.com/p/512680.html"
+  },
+  {
+    "id": "lumina-talk-19",
+    "title": "VLA Foundations, Reinforcement Learning, and Dexterous Manipulation",
+    "original_title": "全构型VLA模型基座、强化学习与灵巧操作",
+    "date": "2025-11-05",
+    "date_label": "Nov 5, 2025",
+    "kind": "Joint session",
+    "host": "Lumina Talk #19 · Westlake MiLAB",
+    "url": "https://www.bilibili.com/video/BV1pDCvB7E9b/"
+  },
+  {
+    "id": "vision-workshop-2025",
+    "title": "Full-Stack VLA: From Visuomotor Policies to Robot Foundation Models",
+    "original_title": "西湖大学MiLab具身专场 | 全栈VLA技术分享",
+    "date": "2025-06",
+    "date_label": "Recording · Jun 2025",
+    "kind": "Online talk",
+    "host": "3D Vision Workshop · 3D 视觉工坊",
+    "url": "https://www.bilibili.com/video/BV1n9MHzNEBy/"
+  },
+  {
+    "id": "shenlan-2024",
+    "title": "End-to-End Foundation Models for Quadruped Robots",
+    "original_title": "端到端四足机器人大模型",
+    "date": "2024-12-25",
+    "date_label": "Dec 25, 2024",
+    "kind": "Open lecture",
+    "host": "Shenlan Academy · 深蓝学院",
+    "url": "https://www.shenlanxueyuan.com/open/course/260"
+  },
+  {
+    "id": "pku-vla",
+    "title": "Vision-Language-Action Models",
+    "original_title": "",
+    "date": "",
+    "date_label": "",
+    "kind": "Research talk",
+    "host": "Peking University · Hosted by Hao Dong",
+    "url": ""
+  }
+]
