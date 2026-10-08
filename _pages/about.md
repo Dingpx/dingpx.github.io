@@ -16,34 +16,57 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 
 <h2 id='News'>News</h2>
 <ul class="dash">
-  <li>2 papers have been accpeted by CVPR26.</li>
-  <li>3 papers have been accpeted by ICRA26.</li>
-  <li>2 papers have been accpeted by ICLR26.</li>
-  <li>4 papers have been accpeted by AAAI26.</li>
-  <li>1 papers have been accpeted by CoRL25.</li>
-  <li>1 papers have been accpeted by Neurips25.</li>
-  <li>1 papers have been accpeted by ICCV25.</li>
-  <li>3 papers have been accpeted by ICML25.</li>
+  <li>1 paper has been accepted to NeurIPS 2026: <a href="#predictive-mind">Endowing Your Vision-Language-Action Model with a Predictive Mind</a>.</li>
+  <li>1 paper has been accepted to CoRL 2026: <a href="#sage-3d">SAGE-3D</a>.</li>
+  <li>2 papers have been accepted to ECCV 2026: <a href="#fast-dvla">Fast-dVLA</a> and <a href="#efficient-decoding">Towards More Efficient Decoding for Autoregressive Vision-language-action Models</a>.</li>
+  <li>1 paper has been accepted to ICML 2026: <a href="#dyn-vpp">Dyn-VPP</a>.</li>
+  <li>2 papers have been accepted to CVPR 2026.</li>
+  <li>3 papers have been accepted to ICRA 2026.</li>
+  <li>2 papers have been accepted to ICLR 2026.</li>
+  <li>4 papers have been accepted to AAAI 2026.</li>
+  <li>1 paper has been accepted to NeurIPS 2025.</li>
+  <li>1 paper has been accepted to CoRL 2025.</li>
+  <li>1 paper has been accepted to ICCV 2025.</li>
+  <li>3 papers have been accepted to ICML 2025.</li>
 </ul>
 
 
 
 
-<h2 id='publications'> Selected Publications (First author or Project leader) x 18</h2>
+<h2 id='publications'> Selected Publications (First author or Project leader) x 21</h2>
 
 
 <a href="https://scholar.google.com/citations?user=QyBSTzEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper%20Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3DQyBSTzEAAAAJ&logo=googlescholar&style=social" alt="Google Scholar"></a>  ∗: Equal contribution †: Project Leader 
 
+<span id="predictive-mind"></span>
+<img src="https://img.shields.io/badge/NeurIPS-2026-blue?style=flat-square" alt="NeurIPS 2026"> <u>Pengxiang Ding</u>, Haoying Wang, Minghui Lin, Qishen Wang, Zhenyu Ding, Runze Suo, Xuanxuan An, Wenxuan Song, Fuhao Li, Han Zhao, Donglin Wang, Ning Ding. &quot;**Endowing Your Vision-Language-Action Model with a Predictive Mind**&quot;.
+[[paper](https://openreview.net/forum?id=61rEbqQcpq)]
+[[conference](https://neurips.cc/virtual/2026/poster/155390)]
+
+<span id="sage-3d"></span>
+<img src="https://img.shields.io/badge/CoRL-2026-blue?style=flat-square" alt="CoRL 2026"> <u>Pengxiang Ding</u>, Xuanxuan An, Kexian Yu, Haoying Wang, Minghui Lin, Xuhao Wan, Wenxuan Song, Han Zhao, Yihao Wang, Donglin Wang, Ning Ding. &quot;**SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models**&quot;.
+[[acceptance announcement](https://gr.xjtu.edu.cn/dingning/zh_CN/zdylm/1001743/list/index.htm)]
+
+<span id="efficient-decoding"></span>
+<img src="https://img.shields.io/badge/ECCV-2026-blue?style=flat-square" alt="ECCV 2026"> Wenxuan Song*, Jiayi Chen*, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Yinchuan Li, Yingcong Chen, Donglin Wang, Haoang Li. &quot;**Towards More Efficient Decoding for Autoregressive Vision-language-action Models**&quot;.
+[[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6779.pdf)]
+[[conference](https://eccv.ecva.net/virtual/2026/poster/4634)]
+
 <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square">  Minghui Lin, <u>Pengxiang Ding†</u>, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang†, Donglin Wang. &quot;**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**&quot;. 
+[[paper](https://openreview.net/forum?id=emmEaXXDxV)]
 
 <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square">  Xingyu Wang*, <u>Pengxiang Ding*†</u>, Jingkai Xu, Donglin Wang, Zhaoxin Fan. &quot;**CUBic: Coordinated Unified Bimanual Perception and Control Framework**&quot;. 
+[[paper](https://openreview.net/forum?id=VJmC9tBAye)]
 
-<img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square">  Jiayi Chen*, Wenxuan Song*, <u>Pengxiang Ding†</u>, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang L. &quot;**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**&quot;. 
+<img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square">  Jiayi Chen*, Wenxuan Song*, <u>Pengxiang Ding†</u>, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li. &quot;**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**&quot;.
+[[paper](https://openreview.net/forum?id=UvQOcw2oCD)]
 
 
 <img src="https://img.shields.io/badge/ICRA-2026-blue?style=flat-square">  Jiacheng Liu*, <u>Pengxiang Ding†*</u>, Qihang Zhou, Yuxuan Wu, Da Huang, Zimian Peng, Wei Xiao, Weinan Zhang, Lixin Yang, Cewu Lu, Donglin Wang. &quot;**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**&quot;. 
+[[paper](https://openreview.net/forum?id=tcrUFpNVno)]
 
 <img src="https://img.shields.io/badge/AAAI-2026-blue?style=flat-square">  Yihao Wang*, <u>Pengxiang Ding†*</u>, Lingxiao Li, Can Cui, Zirui Ge, Xinyang Tong, Wenxuan Song, Han Zhao, Wei Zhao, Pengxu Hou, Siteng Huang, Yifan Tang, Wenhui Wang, Ru Zhang, Jianyi Liu, Donglin Wang &quot;**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**&quot;. 
+[[paper](https://openreview.net/forum?id=VLg5oCyB24)]
 
 
 
@@ -57,12 +80,7 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 [[code](https://github.com/ZhefeiGong/carp)]
 
 
-<!-- <img src="https://img.shields.io/badge/Arxiv-2025-blue?style=flat-square">  Wenxuan Song*, Jiayi Chen*, <u>Pengxiang Ding†</u>, Yuxin Huang, Han Zhao, Donglin Wang, Haoang Li. &quot;**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**&quot;. 
-[[paper](https://arxiv.org/pdf/2506.13725)]
-[[webpage](https://irpn-eai.github.io/CEED-VLA/)]
-[[code](https://github.com/OpenHelix-Team/CEED-VLA)] -->
-
-<img src="https://img.shields.io/badge/Nerupis-2025-blue?style=flat-square">  Yang Liu†, Ming Ma†, Xiaomin Yu†, <u>Pengxiang Ding†</u>, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang. &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;. 
+<img src="https://img.shields.io/badge/NeurIPS-2025-blue?style=flat-square">  Yang Liu†, Ming Ma†, Xiaomin Yu†, <u>Pengxiang Ding†</u>, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang. &quot;**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**&quot;.
 [[paper](https://arxiv.org/pdf/2505.12448?)]
 [[webpage](https://yliu-cs.github.io/SSR/)]
 [[code](https://github.com/yliu-cs/SSR)]
@@ -83,7 +101,7 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 
 
 <img src="https://img.shields.io/badge/IROS-2025-blue?style=flat-square">  Wenxuan Song†, Jiayi Chen†, <u>Pengxiang Ding†</u>, Han Zhao, Wei Zhao, Zhide Zhong, Zongyuan Ge, Jun Ma, Haoang Li. &quot;**Accelerating vision-language-action model integrated with action chunking via parallel decoding**&quot;. 
-[[paper](https://arxiv.org/abs/2503.22655)]
+[[paper](https://openreview.net/forum?id=KJXrWMOZNI)]
 
 <img src="https://img.shields.io/badge/ICML-2025-blue?style=flat-square">   Shuanghao Bai*, Wanqi Zhou*, <u>Pengxiang Ding†</u>, Wei Zhao, Donglin Wang, Badong Chen. &quot;**Rethinking Latent Representations in Behavior Cloning:An Information Bottleneck Approach for Robot Manipulation**&quot;. 
 [[paper](https://arxiv.org/pdf/2502.02853)]
@@ -110,6 +128,38 @@ Hi! I am Pengxiang Ding (丁鹏翔 in Chinese). I am a third-year Ph.D. student 
 
 <img src="https://img.shields.io/badge/TCSVT%20-%202022%20-%20red"> <u>Pengxiang Ding</u>, Jianqin Yin, &quot;**Towards more realistic human motion prediction with attention to motion coordination**&quot;. In *IEEE Transactions on Circuits and Systems for Video Technology*. [[paper](https://arxiv.org/abs/2404.03584)][[code](https://github.com/Dingpx/Motion-Coordination)] 
 
+
+<h2 id="other-publications">Other Publications (2026)</h2>
+
+<span id="fast-dvla"></span>
+<img src="https://img.shields.io/badge/ECCV-2026-blue?style=flat-square" alt="ECCV 2026"> Wenxuan Song, Jiayi Chen, Shuai Chen, Jingbo Wang, <u>Pengxiang Ding</u>, Han Zhao, Yikai Qin, Xinhu Zheng, Yan Wang, Donglin Wang, Haoang Li. &quot;**Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance**&quot;.
+[[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6807.pdf)]
+[[conference](https://eccv.ecva.net/virtual/2026/poster/4640)]
+
+<span id="dyn-vpp"></span>
+<img src="https://img.shields.io/badge/ICML-2026-blue?style=flat-square" alt="ICML 2026"> Zirui Ge, <u>Pengxiang Ding</u>, Baohua Yin, Yemin Wang, Qishen Wang, Zhiyong Xie, Hengtao Li, Runze Suo, Wenxuan Song, Han Zhao, Shangke Lyu, Haoang Li, Ran Cheng, Cheng Chi, Hui-Bin Ge, Yaozhi Luo, Donglin Wang. &quot;**Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics**&quot;.
+[[paper](https://proceedings.mlr.press/v306/ge26a.html)]
+[[OpenReview](https://openreview.net/forum?id=35LVVvPRaE)]
+
+<img src="https://img.shields.io/badge/ICRA-2026-blue?style=flat-square" alt="ICRA 2026"> Wenxuan Song, Jiayi Chen, Xiaoquan Sun, Huashuo Lei, Yikai Qin, Wei Zhao, <u>Pengxiang Ding</u>, Han Zhao, Tongxin Wang, Pengxu Hou, Zhide Zhong, Haodong Yan, Donglin Wang, Jun Ma, Haoang Li. &quot;**Rethinking the Practicality of Vision-Language-Action Model: A Comprehensive Benchmark and an Improved Baseline**&quot;.
+[[paper](https://openreview.net/forum?id=aRHldjYIct)]
+
+<img src="https://img.shields.io/badge/ICRA-2026-blue?style=flat-square" alt="ICRA 2026"> Zhefei Gong, Shangke Lyu, <u>Pengxiang Ding</u>, Wei Xiao, Donglin Wang. &quot;**Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling**&quot;.
+[[paper](https://openreview.net/forum?id=bvSlVqQ3yx)]
+
+<img src="https://img.shields.io/badge/ICLR-2026-blue?style=flat-square" alt="ICLR 2026"> Fuhao Li, Wenxuan Song, Han Zhao, Jingbo Wang, <u>Pengxiang Ding</u>, Donglin Wang, Long Zeng, Haoang Li. &quot;**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**&quot;.
+[[paper](https://openreview.net/forum?id=euMVC1DO4k)]
+[[webpage](https://spatial-forcing.github.io/)]
+[[code](https://github.com/OpenHelix-Team/Spatial-Forcing)]
+
+<img src="https://img.shields.io/badge/AAAI-2026-blue?style=flat-square" alt="AAAI 2026"> Wenxuan Song, Ziyang Zhou, Han Zhao, Jiayi Chen, <u>Pengxiang Ding</u>, Haodong Yan, Yuxin Huang, Feilong Tang, Donglin Wang, Haoang Li. &quot;**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**&quot;.
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38921)]
+
+<img src="https://img.shields.io/badge/AAAI-2026-blue?style=flat-square" alt="AAAI 2026"> Yuhang Han, Xuyang Liu, Zihan Zhang, <u>Pengxiang Ding</u>, Junjie Chen, Honggang Chen, Donglin Wang, Qingsen Yan, Siteng Huang. &quot;**Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration**&quot;.
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/42460)]
+
+<img src="https://img.shields.io/badge/AAAI-2026-blue?style=flat-square" alt="AAAI 2026"> Hangyu Liu, Bo Peng, <u>Pengxiang Ding</u>, Donglin Wang. &quot;**Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach**&quot;.
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37651)]
 
 <!-- ### Other Pubulications
 
@@ -170,6 +220,5 @@ Han Zhao, Wenxuan Song, Donglin Wang, Xinyang Tong, <u>Pengxiang Ding</u>, Xueli
 
 <h2 id='misc'>Misc</h2>
 Welcome to follow my [Redbook](https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687).
-
 
 
