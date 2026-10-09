@@ -1,0 +1,18 @@
+{% capture metric_items %}
+{% for metric in site.data.home_metrics %}
+  {% if metric.value != nil and metric.value != "" and metric.verified_on != "" and metric.url != "" %}
+  <a class="profile-metric" href="{{ metric.url | escape }}" id="{{ metric.id | escape }}">
+    <span class="metric-platform">{{ metric.platform | escape }} <span aria-hidden="true">↗</span></span>
+    <strong class="metric-value">{{ metric.value | escape }}</strong>
+    <span class="metric-label">{{ metric.label | escape }}</span>
+    <span class="metric-date">As of <time datetime="{{ metric.verified_on | escape }}">{{ metric.verified_on | date: "%b %d, %Y" }}</time></span>
+  </a>
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign metric_items = metric_items | strip %}
+{% if metric_items != "" %}
+<div class="profile-metrics" role="group" aria-label="Academic and community metrics">
+  {{ metric_items }}
+</div>
+{% endif %}

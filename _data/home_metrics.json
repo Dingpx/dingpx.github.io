@@ -1,0 +1,29 @@
+[
+  {
+    "id": "scholar-citations",
+    "platform": "Google Scholar",
+    "label": "Total citations",
+    "value": "2,312",
+    "url": "https://scholar.google.com/citations?user=QyBSTzEAAAAJ",
+    "verified_on": "2026-10-09",
+    "verification_note": "Read the official Google Scholar public profile in Chrome on 2026-10-09. The Cited by table shows Citations: All = 2312, Since 2021 = 2311. Display the All column."
+  },
+  {
+    "id": "redbook-followers",
+    "platform": "Redbook · 小红书",
+    "label": "Followers",
+    "value": null,
+    "url": "https://www.xiaohongshu.com/user/profile/5f66a898000000000100a687",
+    "verified_on": "",
+    "verification_note": ""
+  },
+  {
+    "id": "company-x-followers",
+    "platform": "Symbiosis on X",
+    "label": "Company followers",
+    "value": null,
+    "url": "",
+    "verified_on": "",
+    "verification_note": ""
+  }
+]
