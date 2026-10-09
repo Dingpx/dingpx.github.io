@@ -63,7 +63,7 @@ redirect_from:
   </div>
   <div class="section-content">
     <div class="list-heading"><p>Selected publications <span class="count">{{ selected_papers.size }}</span></p><span>{{ latest_year }}</span></div>
-    <p class="section-description">First author or project leader.<br><span class="contribution-legend">* Equal contribution &nbsp; † Project leader</span></p>
+    <p class="section-description">First author or project leader. Click a figure to enlarge.<br><span class="contribution-legend">* Equal contribution &nbsp; † Project leader</span></p>
     <div class="publication-list selected-list">{% for paper in recent_papers %}{% include home-publication.html paper=paper %}{% endfor %}</div>
     <details class="publication-archive" id="earlier-publications">
       <summary><span class="archive-title">Earlier selected work</span><span class="archive-count">{{ earlier_count }} papers · 2022–2025</span><span class="disclosure-icon" aria-hidden="true"></span></summary>

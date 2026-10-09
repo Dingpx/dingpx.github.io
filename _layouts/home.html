@@ -29,6 +29,13 @@
     </nav>
   </header>
   <main id="main" class="wrap">{{ content }}</main>
+  <dialog class="publication-lightbox" aria-labelledby="lightbox-title" aria-describedby="lightbox-caption">
+    <form method="dialog"><button class="lightbox-close" aria-label="Close image">Close <span aria-hidden="true">×</span></button></form>
+    <h2 id="lightbox-title"></h2>
+    <div class="lightbox-image-wrap"><img class="lightbox-image" alt=""></div>
+    <p id="lightbox-caption"></p>
+    <a class="lightbox-source" href="#publications">View source <span aria-hidden="true">↗</span></a>
+  </dialog>
   <footer class="site-footer wrap">
     <div><span class="footer-name">Pengxiang Ding · 丁鹏翔</span><span class="footer-note">Research, robotics, and everything in between.</span></div>
     <a href="#top">Back to top <span aria-hidden="true">↑</span></a>

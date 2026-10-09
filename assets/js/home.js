@@ -47,6 +47,40 @@
   document.addEventListener('toggle', scheduleNavigation, true);
   updateNavigation();
 
+  const imageDialog = document.querySelector('.publication-lightbox');
+  if (imageDialog && typeof imageDialog.showModal === 'function') {
+    let imageTrigger = null;
+    document.querySelectorAll('[data-publication-image]').forEach(link => {
+      link.setAttribute('aria-haspopup', 'dialog');
+      link.addEventListener('click', event => {
+        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        imageTrigger = link;
+        const image = imageDialog.querySelector('.lightbox-image');
+        const thumbnail = link.querySelector('img');
+        image.alt = thumbnail.alt;
+        image.width = Number(thumbnail.getAttribute('width'));
+        image.height = Number(thumbnail.getAttribute('height'));
+        image.src = link.href;
+        imageDialog.querySelector('#lightbox-title').textContent = link.dataset.title;
+        imageDialog.querySelector('#lightbox-caption').textContent = link.dataset.caption;
+        const source = imageDialog.querySelector('.lightbox-source');
+        source.href = link.dataset.source;
+        source.textContent = link.dataset.sourceLabel + ' ↗';
+        imageDialog.showModal();
+        document.body.classList.add('image-viewer-open');
+      });
+    });
+    imageDialog.addEventListener('click', event => {
+      const bounds = imageDialog.getBoundingClientRect();
+      if (event.target === imageDialog && (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom)) imageDialog.close();
+    });
+    imageDialog.addEventListener('close', () => {
+      document.body.classList.remove('image-viewer-open');
+      if (imageTrigger) imageTrigger.focus({preventScroll: true});
+    });
+  }
+
   // Print the full publication record; restore the reader's choices afterwards.
   let printState = [];
   window.addEventListener('beforeprint', () => {

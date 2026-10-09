@@ -1,12 +1,20 @@
-<article class="publication" id="{{ include.paper.id }}">
-  <div class="publication-venue"><span>{{ include.paper.venue }}</span><time>{{ include.paper.year }}</time></div>
+{% assign visuals = site.data.home_publication_media | where: "paper_id", include.paper.id %}
+<article class="publication{% if visuals.size > 0 %} publication-illustrated{% endif %}" id="{{ include.paper.id }}">
   <div class="publication-detail">
+    <div class="publication-venue"><span>{{ include.paper.venue }}</span><time>{{ include.paper.year }}</time></div>
     <h3>{{ include.paper.title | escape }}</h3>
+    {% if visuals.size > 0 %}{% assign visual = visuals.first %}<p class="publication-summary">{{ visual.summary | escape }}</p>{% endif %}
     <p class="publication-authors">{{ include.paper.authors_html }}</p>
     {% if include.paper.links.size > 0 %}
     <div class="publication-links" aria-label="Links for {{ include.paper.title | escape }}">
-      {% for link in include.paper.links %}<a href="{{ link.url | escape }}">{{ link.label | capitalize }} <span aria-hidden="true">↗</span></a>{% endfor %}
+      {% for link in include.paper.links %}<a href="{{ link.url | escape }}">{% if link.label == 'arXiv' %}arXiv{% else %}{{ link.label | capitalize }}{% endif %} <span aria-hidden="true">↗</span></a>{% endfor %}
     </div>
     {% endif %}
   </div>
+  {% if visuals.size > 0 %}
+  <a class="publication-preview{% if visual.source_label == 'Project demo' %} publication-demo{% endif %}" href="{{ visual.image | relative_url }}" data-publication-image data-title="{{ include.paper.title | escape }}" data-caption="{{ visual.caption | escape }}" data-source="{{ visual.source_url | escape }}" data-source-label="{{ visual.source_label | escape }}" aria-label="View image: {{ include.paper.title | escape }}">
+    <span class="publication-image-frame"><img src="{{ visual.thumbnail | relative_url }}" alt="{{ visual.alt | escape }}" width="{{ visual.width }}" height="{{ visual.height }}" loading="lazy" decoding="async"></span>
+    <span class="publication-image-label">{% if visual.source_label == 'Project demo' %}Demo screenshot{% else %}Method overview{% endif %}<span aria-hidden="true">⤢</span></span>
+  </a>
+  {% endif %}
 </article>
