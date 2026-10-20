@@ -1,0 +1,61 @@
+name: Update Google Scholar citations
+
+on:
+  schedule:
+    # 08:23 Asia/Shanghai; GitHub may delay scheduled runs during busy periods.
+    - cron: '23 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-scholar.yml'
+      - 'scripts/update-scholar*.cjs'
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-scholar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Dingpx/dingpx.github.io' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Check parsing and failure handling
+        run: node --test scripts/update-scholar.test.cjs
+      - name: Install browser in temporary workspace
+        run: |
+          npm install --prefix "$RUNNER_TEMP/scholar" --no-save --ignore-scripts --no-audit --no-fund playwright@1.62.1
+          "$RUNNER_TEMP/scholar/node_modules/.bin/playwright" install --with-deps chromium
+      - name: Fetch verified total citations
+        env:
+          NODE_PATH: ${{ runner.temp }}/scholar/node_modules
+        run: node scripts/update-scholar.cjs
+      - name: Commit updated snapshot
+        run: |
+          if git diff --quiet -- _data/home_metrics.json; then
+            echo "The snapshot is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/home_metrics.json
+          git commit -m "Update Google Scholar citation snapshot"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Publish the snapshot to GitHub Pages
+        # A GITHUB_TOKEN push alone does not trigger the legacy Pages build.
+        # Also run when the data is unchanged, so a previous failed build can recover.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
